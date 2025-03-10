@@ -1,69 +1,409 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1741618900651 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1741639352505 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1741618904305 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741639356112 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1741618908321 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741639359725 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1741618911466 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741639363043 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1741618914558 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741639366723 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1741618918133 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741639369912 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1741618921688 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741639373115 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1741618925149 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741639376631 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1741618928489 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741639379781 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1741618933414 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741639383165 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1741618936505 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741639386785 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1741618939669 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741639389957 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1741618942789 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741639393245 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1741618946228 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741639396525 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639399972 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639403248 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639406561 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639410188 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639413781 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639416857 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639420105 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639423384 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639427884 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639431019 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639434092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639437874 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639441322 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639444470 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639447968 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639451466 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639454574 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639457694 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639460833 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639463951 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639467616 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639470710 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639474003 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639478373 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639481964 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639485153 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639488280 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639491780 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639495145 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639499936 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639503106 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639506697 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639509829 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639513367 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639516587 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639519824 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639522899 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639526044 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639529150 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639532407 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639535629 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639538833 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639542407 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639545758 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639548954 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639552372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639555517 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639558761 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639561832 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639565132 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639568449 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639571642 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639576507 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639579885 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639583246 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639586474 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639589665 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639593019 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639596304 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639600872 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639604187 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639607295 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639610521 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639614048 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639617382 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639620619 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639624339 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+school-pope.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1741639627621 tunnel running, 1 tunnels registered
 
 
 TUNNELS
