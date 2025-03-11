@@ -3041,6 +3041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-03-11 21:05:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-11 19:57:35 +0000"
@@ -3056,6 +3062,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-11 19:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-11 21:05:47 +0000"
     },
     "done": true
   },
@@ -3080,6 +3092,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-03-11 19:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-03-11 21:08:26 +0000"
     },
     "done": true
   },

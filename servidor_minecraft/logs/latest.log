@@ -138,3 +138,22 @@
 [20:48:14] [Server thread/INFO]: Novaaynon[/127.108.16.44:56093] logged in with entity id 37120 at ([world]171.47330063912335, -58.0, -351.11165882610976)
 [20:54:31] [Server thread/INFO]: Novaaynon issued server command: /locate biome minecraft:crimson_forest
 [20:54:31] [Server thread/INFO]: Locating element minecraft:crimson_forest took 2 ms
+[20:54:36] [Server thread/INFO]: Novaaynon issued server command: /tp @s 75 115 133
+[20:54:36] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 75.500000, 115.000000, 133.500000]
+[20:54:49] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
+[20:54:49] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
+[20:55:19] [Server thread/INFO]: Novaaynon issued server command: /locate biome minecraft:warped_forest
+[20:55:19] [Server thread/INFO]: Locating element minecraft:warped_forest took 0 ms
+[21:09:21] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[21:09:21] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[21:11:12] [User Authenticator #5/INFO]: UUID of player uriadi is 9b673c7f-0d74-3553-b49d-e0bb4859e85c
+[21:11:16] [Server thread/INFO]: uriadi joined the game
+[21:11:16] [Server thread/INFO]: uriadi[/127.62.22.144:51119] logged in with entity id 41795 at ([world]-95.30000001192093, -24.0, 7.300000011920929)
+[21:11:47] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[21:11:47] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[21:12:26] [Server thread/INFO]: Novaaynon issued server command: /tp 16 113 -51
+[21:12:26] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 16.500000, 113.000000, -50.500000]
+[21:12:33] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[21:12:33] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[21:12:44] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[21:12:44] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
