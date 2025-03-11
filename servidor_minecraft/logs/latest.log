@@ -1,83 +1,71 @@
-[14:21:12] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[14:21:12] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[14:21:12] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[14:21:14] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[14:21:14] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[18:51:49] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[18:51:49] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[18:51:49] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:51:50] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[18:51:50] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - Geyser-Spigot (2.6.1-SNAPSHOT), ViaVersion (5.2.1)
-[14:21:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:21:23] [ServerMain/INFO]: Loaded 1290 recipes
-[14:21:24] [ServerMain/INFO]: Loaded 1399 advancements
-[14:21:24] [Server thread/INFO]: Starting minecraft server version 1.21
-[14:21:24] [Server thread/INFO]: Loading properties
-[14:21:24] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[14:21:25] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[14:21:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:21:25] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:21:27] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[14:21:27] [Server thread/INFO]: Default game type: SURVIVAL
-[14:21:27] [Server thread/INFO]: Generating keypair
-[14:21:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:21:27] [Server thread/INFO]: Using epoll channel type
-[14:21:27] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:21:27] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[14:21:27] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'Geyser-Spigot' for files 'plugins/Geyser-Spigot.jar' and 'plugins/Geyser-Spigot (1).jar' in 'plugins'
-[14:21:29] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
-[14:21:29] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
-[14:21:31] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[14:21:31] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[14:21:33] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.1-SNAPSHOT
-[14:21:35] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[14:21:35] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[14:21:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:21:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:21:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:21:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:21:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:21:35] [Server thread/INFO]: Preparing level "world"
-[14:21:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:21:38] [Server thread/INFO]: Time elapsed: 1614 ms
-[14:21:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:21:38] [Server thread/INFO]: Time elapsed: 362 ms
-[14:21:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:21:38] [Server thread/INFO]: Time elapsed: 143 ms
-[14:21:38] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
-[14:21:38] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[14:21:38] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.1-SNAPSHOT
-[14:21:39] [Server thread/INFO]: [spark] Starting background profiler...
-[14:21:40] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[14:21:40] [Server thread/INFO]: [Geyser-Spigot] 
-[14:21:40] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.1-b784 (git-master-cc94d5a)
-[14:21:40] [Server thread/INFO]: [Geyser-Spigot] 
-[14:21:40] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[14:21:51] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3536
-[14:21:51] [Server thread/INFO]: [Geyser-Spigot] Done (11.304s)! Run /geyser help for help!
-[14:21:52] [Server thread/INFO]: Done preparing level "world" (16.345s)
-[14:21:52] [Server thread/INFO]: Running delayed init tasks
-[14:21:52] [Server thread/INFO]: Done (41.800s)! For help, type "help"
-[14:21:52] [Server thread/INFO]: Timings Reset
-[14:21:52] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[14:22:04] [User Authenticator #0/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
-[14:22:06] [Server thread/INFO]: Novaaynon joined the game
-[14:22:06] [Server thread/INFO]: Novaaynon[/127.108.16.44:34217] logged in with entity id 41 at ([world]169.4833560235668, -58.0, -359.8428736561392)
-[14:26:47] [Server thread/INFO]: Novaaynon issued server command: /give Novaaynon minecraft:ender_pearl 16
-[14:26:47] [Server thread/INFO]: [Novaaynon: Gave 16 [Ender Pearl] to Novaaynon]
-[14:26:50] [Server thread/INFO]: Novaaynon lost connection: Disconnected
-[14:26:50] [Server thread/INFO]: Novaaynon left the game
-[14:26:51] [User Authenticator #1/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
-[14:26:53] [Server thread/INFO]: Novaaynon joined the game
-[14:26:53] [Server thread/INFO]: Novaaynon[/127.108.16.44:43265] logged in with entity id 1105 at ([world_nether]2.4147567532155247, 114.0, -45.72626448209591)
-[14:37:05] [User Authenticator #2/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
-[14:37:08] [Server thread/INFO]: nachurri joined the game
-[14:37:08] [Server thread/INFO]: nachurri[/127.174.62.101:46055] logged in with entity id 2354 at ([world]183.77944521187325, -57.4375, -375.69999998807907)
-[14:38:13] [Server thread/INFO]: nachurri lost connection: Disconnected
-[14:38:13] [Server thread/INFO]: nachurri left the game
-[14:38:15] [User Authenticator #3/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
-[14:38:17] [Server thread/INFO]: nachurri joined the game
-[14:38:17] [Server thread/INFO]: nachurri[/127.174.62.101:50847] logged in with entity id 2526 at ([world]183.77944521187325, -57.4375, -375.69999998807907)
-[14:39:26] [Server thread/INFO]: nachurri lost connection: Timed out
-[14:39:26] [Server thread/INFO]: nachurri left the game
-[14:39:31] [User Authenticator #4/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
-[14:39:32] [Server thread/INFO]: nachurri joined the game
-[14:39:32] [Server thread/INFO]: nachurri[/127.174.62.101:44427] logged in with entity id 2686 at ([world]183.77944521187325, -57.4375, -375.69999998807907)
-[14:47:33] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
-[14:47:33] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
+[18:51:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:51:57] [ServerMain/INFO]: Loaded 1290 recipes
+[18:51:57] [ServerMain/INFO]: Loaded 1399 advancements
+[18:51:58] [Server thread/INFO]: Starting minecraft server version 1.21
+[18:51:58] [Server thread/INFO]: Loading properties
+[18:51:58] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[18:51:59] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:51:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:51:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:52:00] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[18:52:00] [Server thread/INFO]: Default game type: SURVIVAL
+[18:52:00] [Server thread/INFO]: Generating keypair
+[18:52:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:52:00] [Server thread/INFO]: Using epoll channel type
+[18:52:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:52:00] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[18:52:00] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'Geyser-Spigot' for files 'plugins/Geyser-Spigot.jar' and 'plugins/Geyser-Spigot (1).jar' in 'plugins'
+[18:52:02] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[18:52:02] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[18:52:03] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:52:04] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:52:05] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.1-SNAPSHOT
+[18:52:08] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[18:52:08] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[18:52:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:52:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:52:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:52:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:52:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:52:08] [Server thread/INFO]: Preparing level "world"
+[18:52:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:52:09] [Server thread/INFO]: Time elapsed: 1309 ms
+[18:52:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:52:10] [Server thread/INFO]: Time elapsed: 255 ms
+[18:52:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:52:10] [Server thread/INFO]: Time elapsed: 119 ms
+[18:52:10] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[18:52:10] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[18:52:10] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.1-SNAPSHOT
+[18:52:11] [Server thread/INFO]: [spark] Starting background profiler...
+[18:52:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:52:11] [Server thread/INFO]: [Geyser-Spigot] 
+[18:52:11] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.1-b784 (git-master-cc94d5a)
+[18:52:11] [Server thread/INFO]: [Geyser-Spigot] 
+[18:52:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:52:23] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3536
+[18:52:23] [Server thread/INFO]: [Geyser-Spigot] Done (11.179s)! Run /geyser help for help!
+[18:52:23] [Server thread/INFO]: Done preparing level "world" (15.174s)
+[18:52:23] [Server thread/INFO]: Running delayed init tasks
+[18:52:23] [Server thread/INFO]: Done (34.870s)! For help, type "help"
+[18:52:23] [Server thread/INFO]: Timings Reset
+[18:52:23] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[18:52:26] [User Authenticator #0/INFO]: UUID of player uriadi is 9b673c7f-0d74-3553-b49d-e0bb4859e85c
+[18:52:29] [Server thread/INFO]: uriadi joined the game
+[18:52:29] [Server thread/INFO]: uriadi[/127.62.22.144:53965] logged in with entity id 51 at ([world]-183.6355356298645, -30.0, 102.75725956585602)
+[18:52:29] [User Authenticator #0/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
+[18:52:30] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e6219841-0eaf-491c-ab7a-ce80589a7fb1, mapped to Bat['Bat'/93, uuid='e6219841-0eaf-491c-ab7a-ce80589a7fb1', l='ServerLevel[world]', x=-129.09, y=-25.49, z=51.50, cpos=[-9, 3], tl=3132, v=true], can't add Bat['Bat'/142, uuid='e6219841-0eaf-491c-ab7a-ce80589a7fb1', l='ServerLevel[world]', x=-118.81, y=-24.71, z=41.93, cpos=[-8, 2], tl=2681, v=false]
+[18:52:30] [Server thread/INFO]: nachurri joined the game
+[18:52:30] [Server thread/INFO]: nachurri[/127.174.62.101:45475] logged in with entity id 53 at ([world]-306.5933564816708, -52.0, 156.89402119282107)
+[18:52:32] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 914e89b3-654a-428a-a363-a39473f170f5, mapped to Bat['Bat'/253, uuid='914e89b3-654a-428a-a363-a39473f170f5', l='ServerLevel[world]', x=-414.08, y=-35.69, z=189.21, cpos=[-26, 11], tl=668, v=true], can't add Bat['Bat'/264, uuid='914e89b3-654a-428a-a363-a39473f170f5', l='ServerLevel[world]', x=-419.70, y=-42.45, z=185.23, cpos=[-27, 11], tl=875, v=false]
+[18:52:42] [User Authenticator #0/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[18:52:43] [Server thread/INFO]: Novaaynon joined the game
+[18:52:43] [Server thread/INFO]: Novaaynon[/127.108.16.44:39421] logged in with entity id 436 at ([world]-105.08428208477129, -27.0, 7.558327809277648)
+[18:57:31] [Server thread/INFO]: Novaaynon issued server command: /tp uriadi nachurri
+[18:57:31] [Server thread/INFO]: [Novaaynon: Teleported uriadi to nachurri]
