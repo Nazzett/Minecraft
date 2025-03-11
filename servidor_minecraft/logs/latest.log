@@ -131,3 +131,10 @@
 [20:24:35] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
 [20:43:06] [Server thread/INFO]: nachurri issued server command: /give nachurri minecraft:egg
 [20:43:06] [Server thread/INFO]: [nachurri: Gave 1 [Egg] to nachurri]
+[20:45:48] [Server thread/INFO]: Novaaynon lost connection: Disconnected
+[20:45:48] [Server thread/INFO]: Novaaynon left the game
+[20:48:12] [User Authenticator #4/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[20:48:14] [Server thread/INFO]: Novaaynon joined the game
+[20:48:14] [Server thread/INFO]: Novaaynon[/127.108.16.44:56093] logged in with entity id 37120 at ([world]171.47330063912335, -58.0, -351.11165882610976)
+[20:54:31] [Server thread/INFO]: Novaaynon issued server command: /locate biome minecraft:crimson_forest
+[20:54:31] [Server thread/INFO]: Locating element minecraft:crimson_forest took 2 ms
