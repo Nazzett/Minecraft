@@ -368,6 +368,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-11 21:57:16 +0000",
       "bread": "2025-03-11 16:58:06 +0000",
       "cooked_mutton": "2025-03-11 17:20:41 +0000",
       "cooked_beef": "2025-03-11 18:14:54 +0000",
@@ -1951,9 +1952,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-11 21:58:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-03-11 21:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-11 21:59:37 +0000"
     },
     "done": true
   },

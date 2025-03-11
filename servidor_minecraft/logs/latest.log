@@ -188,3 +188,17 @@
 [21:48:49] [Server thread/INFO]: Novaaynon issued server command: /xp add nachurri 9999
 [21:48:49] [Server thread/INFO]: [Novaaynon: Gave 9999 experience points to nachurri]
 [21:54:00] [Server thread/INFO]: Novaaynon has made the advancement [Take Aim]
+[21:57:29] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[21:57:29] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[21:57:49] [Server thread/INFO]: uriadi was burned to a crisp while fighting nachurri
+[21:58:01] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[21:58:01] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[21:58:20] [Server thread/INFO]: uriadi has made the advancement [Take Aim]
+[22:00:04] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[22:00:04] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[22:00:06] [Server thread/INFO]: uriadi issued server command: /tp novaaynon
+[22:00:06] [Server thread/INFO]: [uriadi: Teleported uriadi to Novaaynon]
+[22:04:51] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[22:04:51] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[22:04:53] [Server thread/INFO]: uriadi issued server command: /tp novaaynon
+[22:04:53] [Server thread/INFO]: [uriadi: Teleported uriadi to Novaaynon]
