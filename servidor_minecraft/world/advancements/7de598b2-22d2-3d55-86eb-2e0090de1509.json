@@ -1378,6 +1378,8 @@
       "minecraft:zombified_piglin": "2025-03-11 06:37:13 +0000",
       "minecraft:wither_skeleton": "2025-03-11 07:31:39 +0000",
       "minecraft:piglin": "2025-03-11 06:33:44 +0000",
+      "minecraft:enderman": "2025-03-11 22:19:57 +0000",
+      "minecraft:silverfish": "2025-03-11 22:13:56 +0000",
       "minecraft:spider": "2025-03-10 17:35:28 +0000",
       "minecraft:piglin_brute": "2025-03-11 06:26:06 +0000",
       "minecraft:zombie": "2025-03-11 05:28:32 +0000",
@@ -2969,6 +2971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-11 22:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-11 22:06:59 +0000"
@@ -3026,6 +3034,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-03-11 21:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-03-11 22:14:46 +0000"
     },
     "done": true
   },
@@ -3098,6 +3112,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-03-11 22:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-11 22:18:47 +0000"
     },
     "done": true
   },
@@ -3200,6 +3220,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-11 22:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-11 22:18:47 +0000"
     },
     "done": true
   },

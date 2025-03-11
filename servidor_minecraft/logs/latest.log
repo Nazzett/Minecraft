@@ -210,3 +210,19 @@
 [22:12:10] [Server thread/INFO]: [uriadi: Teleported uriadi to Novaaynon]
 [22:14:25] [Server thread/INFO]: Novaaynon issued server command: /tp uriadi
 [22:14:25] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to uriadi]
+[22:16:12] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[22:16:12] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[22:16:35] [Server thread/INFO]: Novaaynon issued server command: /give Novaaynon minecraft:enderman_spawn_egg
+[22:16:35] [Server thread/INFO]: [Novaaynon: Gave 1 [Enderman Spawn Egg] to Novaaynon]
+[22:18:47] [Server thread/INFO]: nachurri has made the advancement [The End?]
+[22:18:48] [Server thread/INFO]: uriadi has made the advancement [The End?]
+[22:18:49] [Server thread/INFO]: Novaaynon has made the advancement [The End?]
+[22:18:49] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[22:18:49] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[22:22:56] [Server thread/INFO]: uriadi fell from a high place
+[22:23:07] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[22:23:07] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[22:23:40] [Server thread/INFO]: nachurri has made the advancement [Free the End]
+[22:25:24] [Server thread/INFO]: Novaaynon has made the advancement [Remote Getaway]
+[22:25:28] [Server thread/INFO]: uriadi has made the advancement [Remote Getaway]
+[22:25:28] [Server thread/INFO]: nachurri has made the advancement [Remote Getaway]
