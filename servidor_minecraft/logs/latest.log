@@ -79,3 +79,5 @@
 [14:39:31] [User Authenticator #4/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
 [14:39:32] [Server thread/INFO]: nachurri joined the game
 [14:39:32] [Server thread/INFO]: nachurri[/127.174.62.101:44427] logged in with entity id 2686 at ([world]183.77944521187325, -57.4375, -375.69999998807907)
+[14:47:33] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
+[14:47:33] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
