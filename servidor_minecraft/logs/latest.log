@@ -108,3 +108,7 @@
 [04:37:36] [Server thread/INFO]: nachurri joined the game
 [04:37:36] [Server thread/INFO]: nachurri[/127.174.62.101:33451] logged in with entity id 43920 at ([world]187.69999998807907, -57.125, -365.51535360872987)
 [04:37:49] [Server thread/INFO]: jeikokorte issued server command: /bukkit:about
+[04:52:46] [Server thread/WARN]: nachurri moved wrongly!
+[04:53:19] [Server thread/WARN]: nachurri moved wrongly!
+[05:06:32] [Server thread/INFO]: Novaaynon issued server command: /tp jeikokorte Novaaynon
+[05:06:32] [Server thread/INFO]: [Novaaynon: Teleported jeikokorte to Novaaynon]
