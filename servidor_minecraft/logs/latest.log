@@ -66,3 +66,16 @@
 [14:26:51] [User Authenticator #1/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
 [14:26:53] [Server thread/INFO]: Novaaynon joined the game
 [14:26:53] [Server thread/INFO]: Novaaynon[/127.108.16.44:43265] logged in with entity id 1105 at ([world_nether]2.4147567532155247, 114.0, -45.72626448209591)
+[14:37:05] [User Authenticator #2/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
+[14:37:08] [Server thread/INFO]: nachurri joined the game
+[14:37:08] [Server thread/INFO]: nachurri[/127.174.62.101:46055] logged in with entity id 2354 at ([world]183.77944521187325, -57.4375, -375.69999998807907)
+[14:38:13] [Server thread/INFO]: nachurri lost connection: Disconnected
+[14:38:13] [Server thread/INFO]: nachurri left the game
+[14:38:15] [User Authenticator #3/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
+[14:38:17] [Server thread/INFO]: nachurri joined the game
+[14:38:17] [Server thread/INFO]: nachurri[/127.174.62.101:50847] logged in with entity id 2526 at ([world]183.77944521187325, -57.4375, -375.69999998807907)
+[14:39:26] [Server thread/INFO]: nachurri lost connection: Timed out
+[14:39:26] [Server thread/INFO]: nachurri left the game
+[14:39:31] [User Authenticator #4/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
+[14:39:32] [Server thread/INFO]: nachurri joined the game
+[14:39:32] [Server thread/INFO]: nachurri[/127.174.62.101:44427] logged in with entity id 2686 at ([world]183.77944521187325, -57.4375, -375.69999998807907)
