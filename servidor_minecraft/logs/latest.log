@@ -101,3 +101,10 @@
 [04:10:06] [Server thread/INFO]: nachurri joined the game
 [04:10:06] [Server thread/INFO]: nachurri[/127.174.62.101:59039] logged in with entity id 38615 at ([world]178.68611097892807, -58.0, -360.4486963626385)
 [04:11:45] [Server thread/INFO]: jeikokorte has made the advancement [Sweet Dreams]
+[04:30:22] [Server thread/INFO]: nachurri has made the advancement [Sweet Dreams]
+[04:33:09] [Server thread/INFO]: nachurri lost connection: Timed out
+[04:33:09] [Server thread/INFO]: nachurri left the game
+[04:37:34] [User Authenticator #5/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
+[04:37:36] [Server thread/INFO]: nachurri joined the game
+[04:37:36] [Server thread/INFO]: nachurri[/127.174.62.101:33451] logged in with entity id 43920 at ([world]187.69999998807907, -57.125, -365.51535360872987)
+[04:37:49] [Server thread/INFO]: jeikokorte issued server command: /bukkit:about

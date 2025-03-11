@@ -737,7 +737,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-10 17:25:54 +0000",
-      "minecraft:zombie": "2025-03-10 17:23:42 +0000"
+      "minecraft:zombie": "2025-03-10 17:23:42 +0000",
+      "minecraft:slime": "2025-03-11 04:32:08 +0000"
     },
     "done": false
   },
@@ -1449,6 +1450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-11 04:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-11 04:20:00 +0000"
@@ -1665,6 +1672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-11 04:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-03-11 03:37:44 +0000"
@@ -1734,6 +1747,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-11 03:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-11 04:32:09 +0000"
     },
     "done": true
   },
