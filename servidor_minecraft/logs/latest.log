@@ -183,3 +183,20 @@
 [06:59:30] [Server thread/INFO]: [Novaaynon: Teleported nachurri to Novaaynon]
 [07:01:42] [Server thread/INFO]: Novaaynon issued server command: /seed
 [07:03:44] [Async Chat Thread - #4/INFO]: [Not Secure] <nachurri> 467 -1161
+[07:14:52] [Server thread/INFO]: jeikokorte lost connection: Disconnected
+[07:14:52] [Server thread/INFO]: jeikokorte left the game
+[07:16:38] [Server thread/INFO]: Novaaynon has made the advancement [A Terrible Fortress]
+[07:16:42] [Server thread/INFO]: nachurri has made the advancement [A Terrible Fortress]
+[07:17:09] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri 17 112 -49
+[07:17:09] [Server thread/INFO]: [Novaaynon: Teleported nachurri to 17.500000, 112.000000, -48.500000]
+[07:17:13] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri Novaaynon
+[07:17:13] [Server thread/INFO]: [Novaaynon: Teleported nachurri to Novaaynon]
+[07:17:45] [Server thread/INFO]: Novaaynon issued server command: /tp Novaaynon nachurri
+[07:17:45] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
+[07:17:57] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
+[07:17:57] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
+[07:18:00] [Server thread/INFO]: nachurri has made the advancement [Take Aim]
+[07:18:18] [Server thread/INFO]: Novaaynon issued server command: /tp 16 113 -51
+[07:18:18] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 16.500000, 113.000000, -50.500000]
+[07:18:47] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri Novaaynon
+[07:18:47] [Server thread/INFO]: [Novaaynon: Teleported nachurri to Novaaynon]
