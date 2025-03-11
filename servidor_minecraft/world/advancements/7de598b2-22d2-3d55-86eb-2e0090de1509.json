@@ -488,7 +488,8 @@
     "criteria": {
       "cooked_porkchop": "2025-03-10 17:41:05 +0000",
       "cooked_chicken": "2025-03-10 17:52:13 +0000",
-      "cooked_beef": "2025-03-10 17:07:34 +0000"
+      "cooked_beef": "2025-03-10 17:07:34 +0000",
+      "cooked_salmon": "2025-03-11 02:56:46 +0000"
     },
     "done": false
   },
@@ -1464,9 +1465,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-11 03:02:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-03-11 02:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-03-11 02:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-11 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-11 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-11 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-11 03:02:29 +0000"
     },
     "done": true
   },
