@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-11 05:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-11 03:38:59 +0000"
@@ -338,6 +344,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-11 03:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-11 05:57:11 +0000"
     },
     "done": true
   },
@@ -530,6 +542,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-03-11 03:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-11 05:54:18 +0000"
     },
     "done": true
   },
@@ -779,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-11 05:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-03-11 03:21:53 +0000"
@@ -869,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-11 05:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-11 04:25:39 +0000"
@@ -941,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-11 05:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-03-11 03:38:03 +0000"
@@ -950,8 +986,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-11 03:26:57 +0000",
+      "minecraft:witch": "2025-03-11 05:52:13 +0000",
       "minecraft:spider": "2025-03-11 05:31:25 +0000",
-      "minecraft:zombie": "2025-03-11 05:19:44 +0000"
+      "minecraft:zombie": "2025-03-11 05:19:44 +0000",
+      "minecraft:creeper": "2025-03-11 05:50:27 +0000",
+      "minecraft:slime": "2025-03-11 05:56:41 +0000"
     },
     "done": false
   },
@@ -1021,6 +1060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-11 05:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-11 04:25:39 +0000"
@@ -1060,6 +1105,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-03-11 03:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-11 05:54:18 +0000"
     },
     "done": true
   },
@@ -1140,6 +1191,7 @@
       "minecraft:savanna_plateau": "2025-03-11 03:51:46 +0000",
       "minecraft:beach": "2025-03-11 05:23:34 +0000",
       "minecraft:forest": "2025-03-11 03:13:59 +0000",
+      "minecraft:deep_dark": "2025-03-11 05:50:36 +0000",
       "minecraft:sparse_jungle": "2025-03-11 03:23:10 +0000",
       "minecraft:jungle": "2025-03-11 03:22:43 +0000",
       "minecraft:river": "2025-03-11 03:30:00 +0000",
@@ -1247,6 +1299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-11 05:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-03-11 04:00:03 +0000"
@@ -1262,6 +1320,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-11 03:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-11 05:50:29 +0000"
     },
     "done": true
   },
@@ -1338,6 +1402,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-11 03:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-11 05:50:29 +0000"
     },
     "done": true
   },
@@ -1443,6 +1513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-11 05:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-03-11 03:38:03 +0000"
@@ -1482,6 +1558,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-11 04:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-11 05:56:42 +0000"
     },
     "done": true
   },

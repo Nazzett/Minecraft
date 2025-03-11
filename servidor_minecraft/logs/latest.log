@@ -122,3 +122,18 @@
 [05:46:30] [Server thread/INFO]: [Novaaynon: Teleported nachurri to nachurri]
 [05:46:42] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri jeikokorte
 [05:46:42] [Server thread/INFO]: [Novaaynon: Teleported nachurri to jeikokorte]
+[05:50:47] [Server thread/INFO]: nachurri has made the advancement [Not Today, Thank You]
+[05:51:26] [Server thread/INFO]: Novaaynon issued server command: /tp jeikokorte
+[05:51:26] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to jeikokorte]
+[05:51:27] [Server thread/INFO]: jeikokorte has made the advancement [Sneak 100]
+[05:51:27] [Server thread/INFO]: Novaaynon has made the advancement [Sneak 100]
+[05:55:19] [Server thread/INFO]: Novaaynon issued server command: /tp 117 85 -515
+[05:55:19] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 117.500000, 85.000000, -514.500000]
+[05:57:42] [Server thread/INFO]: Novaaynon issued server command: /tp 117.642 85 -515.673
+[05:57:42] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 117.642000, 85.000000, -515.673000]
+[05:57:50] [Server thread/INFO]: Novaaynon issued server command: /gamemode spectator
+[05:57:50] [Server thread/INFO]: [Novaaynon: Set own game mode to Spectator Mode]
+[05:57:57] [Server thread/INFO]: Novaaynon issued server command: /gamemode survival
+[05:57:57] [Server thread/INFO]: [Novaaynon: Set own game mode to Survival Mode]
+[05:58:16] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri Novaaynon
+[05:58:16] [Server thread/INFO]: [Novaaynon: Teleported nachurri to Novaaynon]

@@ -10,6 +10,7 @@
       "minecraft:savanna_plateau": "2025-03-11 03:59:36 +0000",
       "minecraft:beach": "2025-03-10 17:38:14 +0000",
       "minecraft:forest": "2025-03-10 14:38:15 +0000",
+      "minecraft:deep_dark": "2025-03-11 05:51:26 +0000",
       "minecraft:sparse_jungle": "2025-03-11 03:38:14 +0000",
       "minecraft:jungle": "2025-03-11 03:37:17 +0000",
       "minecraft:river": "2025-03-10 17:38:46 +0000",
@@ -1699,6 +1700,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-11 05:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-11 05:51:27 +0000"
     },
     "done": true
   },
