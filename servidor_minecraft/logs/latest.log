@@ -129,3 +129,5 @@
 [20:18:01] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
 [20:24:35] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
 [20:24:35] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[20:43:06] [Server thread/INFO]: nachurri issued server command: /give nachurri minecraft:egg
+[20:43:06] [Server thread/INFO]: [nachurri: Gave 1 [Egg] to nachurri]
