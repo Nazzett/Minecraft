@@ -95,3 +95,9 @@
 [03:57:20] [Server thread/INFO]: nachurri[/127.174.62.101:46459] logged in with entity id 29582 at ([world]177.45074905117227, 70.5, -498.04652580523634)
 [04:08:00] [Server thread/INFO]: Novaaynon issued server command: /tp jeikokorte Novaaynon
 [04:08:00] [Server thread/INFO]: [Novaaynon: Teleported jeikokorte to Novaaynon]
+[04:10:04] [Server thread/INFO]: nachurri lost connection: Timed out
+[04:10:04] [Server thread/INFO]: nachurri left the game
+[04:10:05] [User Authenticator #4/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
+[04:10:06] [Server thread/INFO]: nachurri joined the game
+[04:10:06] [Server thread/INFO]: nachurri[/127.174.62.101:59039] logged in with entity id 38615 at ([world]178.68611097892807, -58.0, -360.4486963626385)
+[04:11:45] [Server thread/INFO]: jeikokorte has made the advancement [Sweet Dreams]
