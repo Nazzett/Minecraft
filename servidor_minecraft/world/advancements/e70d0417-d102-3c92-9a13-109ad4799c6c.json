@@ -325,6 +325,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-10 17:37:39 +0000",
       "bread": "2025-03-11 15:19:00 +0000",
+      "golden_apple": "2025-03-11 21:48:31 +0000",
       "cooked_beef": "2025-03-10 17:05:11 +0000",
       "baked_potato": "2025-03-11 15:35:24 +0000"
     },
@@ -3022,6 +3023,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-03-11 21:46:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-03-11 21:15:28 +0000"
@@ -3037,6 +3044,12 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2025-03-11 21:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-03-11 21:46:21 +0000"
     },
     "done": true
   },

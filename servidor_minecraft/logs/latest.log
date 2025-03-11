@@ -180,3 +180,11 @@
 [21:41:29] [Server thread/INFO]: [Novaaynon: Gave 9999 experience points to nachurri]
 [21:44:48] [Server thread/INFO]: Novaaynon issued server command: /xp add uriadi 999
 [21:44:48] [Server thread/INFO]: [Novaaynon: Gave 999 experience points to uriadi]
+[21:46:05] [Server thread/INFO]: Novaaynon has made the advancement [Local Brewery]
+[21:46:46] [Server thread/INFO]: Novaaynon issued server command: /xp add uriadi 99
+[21:46:46] [Server thread/INFO]: [Novaaynon: Gave 99 experience points to uriadi]
+[21:46:58] [Server thread/INFO]: Novaaynon issued server command: /xp add uriadi 9999
+[21:46:58] [Server thread/INFO]: [Novaaynon: Gave 9999 experience points to uriadi]
+[21:48:49] [Server thread/INFO]: Novaaynon issued server command: /xp add nachurri 9999
+[21:48:49] [Server thread/INFO]: [Novaaynon: Gave 9999 experience points to nachurri]
+[21:54:00] [Server thread/INFO]: Novaaynon has made the advancement [Take Aim]
