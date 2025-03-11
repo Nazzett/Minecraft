@@ -2004,9 +2004,10 @@
       "minecraft:crimson_forest": "2025-03-11 06:45:08 +0000",
       "minecraft:nether_wastes": "2025-03-11 06:33:51 +0000",
       "minecraft:soul_sand_valley": "2025-03-11 06:19:23 +0000",
-      "minecraft:basalt_deltas": "2025-03-11 06:36:21 +0000"
+      "minecraft:basalt_deltas": "2025-03-11 06:36:21 +0000",
+      "minecraft:warped_forest": "2025-03-11 06:57:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
