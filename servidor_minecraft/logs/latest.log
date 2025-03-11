@@ -69,3 +69,21 @@
 [18:52:43] [Server thread/INFO]: Novaaynon[/127.108.16.44:39421] logged in with entity id 436 at ([world]-105.08428208477129, -27.0, 7.558327809277648)
 [18:57:31] [Server thread/INFO]: Novaaynon issued server command: /tp uriadi nachurri
 [18:57:31] [Server thread/INFO]: [Novaaynon: Teleported uriadi to nachurri]
+[19:07:55] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri uriadi
+[19:07:55] [Server thread/INFO]: [Novaaynon: Teleported nachurri to uriadi]
+[19:08:47] [User Authenticator #1/INFO]: UUID of player jeikokorte is 0ac47596-d0da-3258-bfd1-ee5056eecdad
+[19:08:48] [Server thread/INFO]: jeikokorte joined the game
+[19:08:48] [Server thread/INFO]: jeikokorte[/127.193.244.200:45059] logged in with entity id 5985 at ([world]172.5, -58.0, -361.5)
+[19:09:23] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri Novaaynon
+[19:09:23] [Server thread/INFO]: [Novaaynon: Teleported nachurri to Novaaynon]
+[19:09:31] [Server thread/INFO]: Novaaynon issued server command: /tp uriadi nachurri
+[19:09:31] [Server thread/INFO]: [Novaaynon: Teleported uriadi to nachurri]
+[19:09:35] [Server thread/WARN]: uriadi was kicked for floating too long!
+[19:09:35] [Server thread/INFO]: uriadi lost connection: Flying is not enabled on this server
+[19:09:35] [Server thread/INFO]: uriadi left the game
+[19:09:42] [Async Chat Thread - #0/INFO]: [Not Secure] <jeikokorte> ahi entro al ds
+[19:09:59] [User Authenticator #2/INFO]: UUID of player uriadi is 9b673c7f-0d74-3553-b49d-e0bb4859e85c
+[19:10:02] [Server thread/INFO]: uriadi joined the game
+[19:10:02] [Server thread/INFO]: uriadi[/127.62.22.144:51909] logged in with entity id 6238 at ([world]177.6729835020342, -58.0, -353.07286404104065)
+[19:10:40] [Server thread/INFO]: jeikokorte lost connection: Timed out
+[19:10:40] [Server thread/INFO]: jeikokorte left the game
