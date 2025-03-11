@@ -206,3 +206,11 @@
 [07:29:09] [Server thread/INFO]: [Novaaynon: Teleported nachurri to Novaaynon]
 [07:31:03] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri Novaaynon
 [07:31:03] [Server thread/INFO]: [Novaaynon: Teleported nachurri to Novaaynon]
+[07:33:34] [Server thread/INFO]: nachurri has made the advancement [Into Fire]
+[07:33:40] [Server thread/INFO]: Novaaynon has made the advancement [Into Fire]
+[07:33:57] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri Novaaynon
+[07:33:57] [Server thread/INFO]: [Novaaynon: Teleported nachurri to Novaaynon]
+[07:40:20] [Server thread/INFO]: Novaaynon issued server command: /tp 16 113 -51
+[07:40:20] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 16.500000, 113.000000, -50.500000]
+[07:40:54] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri Novaaynon
+[07:40:54] [Server thread/INFO]: [Novaaynon: Teleported nachurri to Novaaynon]
