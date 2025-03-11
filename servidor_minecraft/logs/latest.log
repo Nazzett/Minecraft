@@ -119,3 +119,9 @@
 [20:00:27] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
 [20:03:20] [Server thread/INFO]: nachurri issued server command: /tp uriadi
 [20:03:20] [Server thread/INFO]: [nachurri: Teleported nachurri to uriadi]
+[20:05:24] [Server thread/INFO]: uriadi lost connection: Disconnected
+[20:05:24] [Server thread/INFO]: uriadi left the game
+[20:09:18] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[20:09:18] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[20:12:26] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[20:12:26] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
