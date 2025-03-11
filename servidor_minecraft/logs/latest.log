@@ -162,3 +162,13 @@
 [21:18:12] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
 [21:24:48] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
 [21:24:48] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[21:26:09] [Server thread/INFO]: Novaaynon issued server command: /xp add nachurri 12000
+[21:26:09] [Server thread/INFO]: [Novaaynon: Gave 12000 experience points to nachurri]
+[21:26:17] [Server thread/INFO]: Novaaynon issued server command: /xp add nachurri 99999
+[21:26:17] [Server thread/INFO]: [Novaaynon: Gave 99999 experience points to nachurri]
+[21:26:30] [Server thread/INFO]: Novaaynon issued server command: /xp add uriadi 99999
+[21:26:30] [Server thread/INFO]: [Novaaynon: Gave 99999 experience points to uriadi]
+[21:26:44] [Server thread/INFO]: Novaaynon issued server command: /xp add 99999
+[21:26:55] [Server thread/INFO]: Novaaynon issued server command: /xp add Novaaynon 99999
+[21:26:55] [Server thread/INFO]: [Novaaynon: Gave 99999 experience points to Novaaynon]
+[21:30:01] [Server thread/INFO]: uriadi has made the advancement [Enchanter]
