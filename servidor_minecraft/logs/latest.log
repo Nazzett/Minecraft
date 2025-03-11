@@ -102,3 +102,20 @@
 [19:42:26] [Server thread/INFO]: Made uriadi a server operator
 [19:42:37] [Server thread/INFO]: Made jeikokorte a server operator
 [19:43:01] [Server thread/INFO]: jeikokorte has made the advancement [Ice Bucket Challenge]
+[19:44:34] [Server thread/INFO]: jeikokorte fell from a high place
+[19:46:57] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
+[19:46:57] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
+[19:47:22] [Server thread/INFO]: nachurri issued server command: /bukkit:plugins novaaynon
+[19:48:14] [Server thread/INFO]: Novaaynon issued server command: /bukkit:plugins novaynon
+[19:48:16] [Server thread/INFO]: jeikokorte lost connection: Disconnected
+[19:48:16] [Server thread/INFO]: jeikokorte left the game
+[19:49:21] [Server thread/INFO]: nachurri issued server command: /?
+[19:57:30] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[19:57:30] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[19:59:10] [Server thread/WARN]: Novaaynon moved too quickly! -14.429169158967383,0.12160004615783748,0.36417129911984425
+[20:00:02] [Server thread/INFO]: uriadi issued server command: /tp n
+[20:00:13] [Server thread/INFO]: uriadi issued server command: /tp n
+[20:00:27] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[20:00:27] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[20:03:20] [Server thread/INFO]: nachurri issued server command: /tp uriadi
+[20:03:20] [Server thread/INFO]: [nachurri: Teleported nachurri to uriadi]
