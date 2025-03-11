@@ -1374,11 +1374,12 @@
       "minecraft:blaze": "2025-03-11 07:33:33 +0000",
       "minecraft:pillager": "2025-03-11 15:36:31 +0000",
       "minecraft:skeleton": "2025-03-11 05:51:03 +0000",
-      "minecraft:piglin": "2025-03-11 06:33:44 +0000",
+      "minecraft:phantom": "2025-03-11 19:23:48 +0000",
       "minecraft:zombified_piglin": "2025-03-11 06:37:13 +0000",
+      "minecraft:wither_skeleton": "2025-03-11 07:31:39 +0000",
+      "minecraft:piglin": "2025-03-11 06:33:44 +0000",
       "minecraft:spider": "2025-03-10 17:35:28 +0000",
       "minecraft:piglin_brute": "2025-03-11 06:26:06 +0000",
-      "minecraft:wither_skeleton": "2025-03-11 07:31:39 +0000",
       "minecraft:zombie": "2025-03-11 05:28:32 +0000",
       "minecraft:creeper": "2025-03-11 18:33:51 +0000",
       "minecraft:drowned": "2025-03-11 16:03:02 +0000",
@@ -2947,6 +2948,48 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-03-11 18:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-11 19:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-11 19:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-11 19:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-11 19:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-11 19:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-11 19:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-11 19:17:49 +0000"
     },
     "done": true
   },

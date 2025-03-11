@@ -87,3 +87,10 @@
 [19:10:02] [Server thread/INFO]: uriadi[/127.62.22.144:51909] logged in with entity id 6238 at ([world]177.6729835020342, -58.0, -353.07286404104065)
 [19:10:40] [Server thread/INFO]: jeikokorte lost connection: Timed out
 [19:10:40] [Server thread/INFO]: jeikokorte left the game
+[19:14:02] [User Authenticator #3/INFO]: UUID of player jeikokorte is 0ac47596-d0da-3258-bfd1-ee5056eecdad
+[19:14:03] [Server thread/INFO]: jeikokorte joined the game
+[19:14:03] [Server thread/INFO]: jeikokorte[/127.193.244.200:55811] logged in with entity id 7442 at ([world]179.41420632287407, -58.0, -351.69999998807907)
+[19:14:18] [Server thread/INFO]: nachurri issued server command: /plugins
+[19:22:20] [Server thread/INFO]: uriadi has made the advancement [Not Today, Thank You]
+[19:29:41] [Server thread/INFO]: Novaaynon issued server command: /tp jeikokorte nachurri
+[19:29:41] [Server thread/INFO]: [Novaaynon: Teleported jeikokorte to nachurri]

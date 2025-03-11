@@ -9,14 +9,15 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-03-11 03:51:46 +0000",
       "minecraft:beach": "2025-03-11 05:23:34 +0000",
+      "minecraft:stony_peaks": "2025-03-11 19:25:08 +0000",
       "minecraft:forest": "2025-03-11 03:13:59 +0000",
-      "minecraft:deep_dark": "2025-03-11 05:50:36 +0000",
       "minecraft:sparse_jungle": "2025-03-11 03:23:10 +0000",
-      "minecraft:jungle": "2025-03-11 03:22:43 +0000",
       "minecraft:river": "2025-03-11 03:30:00 +0000",
       "minecraft:lukewarm_ocean": "2025-03-11 05:25:03 +0000",
       "minecraft:stony_shore": "2025-03-11 03:21:19 +0000",
       "minecraft:dripstone_caves": "2025-03-11 05:48:15 +0000",
+      "minecraft:deep_dark": "2025-03-11 05:50:36 +0000",
+      "minecraft:jungle": "2025-03-11 03:22:43 +0000",
       "minecraft:savanna": "2025-03-11 03:27:59 +0000",
       "minecraft:plains": "2025-03-11 03:15:13 +0000"
     },
@@ -514,6 +515,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-03-11 19:27:03 +0000",
       "minecraft:skeleton": "2025-03-11 03:26:57 +0000",
       "minecraft:piglin": "2025-03-11 06:25:04 +0000",
       "minecraft:witch": "2025-03-11 05:52:13 +0000",
@@ -1850,6 +1852,102 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-03-11 06:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-11 19:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-11 19:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-11 19:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 19:23:01 +0000"
     },
     "done": true
   },
