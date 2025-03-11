@@ -1358,6 +1358,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-11 05:51:03 +0000",
+      "minecraft:piglin": "2025-03-11 06:33:44 +0000",
+      "minecraft:zombified_piglin": "2025-03-11 06:37:13 +0000",
       "minecraft:spider": "2025-03-10 17:35:28 +0000",
       "minecraft:piglin_brute": "2025-03-11 06:26:06 +0000",
       "minecraft:zombie": "2025-03-11 05:28:32 +0000",
@@ -1851,6 +1853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-03-11 06:28:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-03-11 06:20:25 +0000"
@@ -1877,7 +1885,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-03-11 06:19:24 +0000"
+      "minecraft:nether_wastes": "2025-03-11 06:33:39 +0000",
+      "minecraft:soul_sand_valley": "2025-03-11 06:19:24 +0000",
+      "minecraft:basalt_deltas": "2025-03-11 06:36:20 +0000"
     },
     "done": false
   },
@@ -1902,6 +1912,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-03-11 06:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-11 06:29:00 +0000"
     },
     "done": true
   },
@@ -1941,6 +1957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-11 06:29:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-03-11 05:11:50 +0000"
@@ -1956,6 +1978,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-11 06:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-11 06:34:10 +0000"
     },
     "done": true
   },
@@ -1977,6 +2005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-11 06:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-03-11 06:20:25 +0000"
@@ -1986,6 +2020,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-03-11 06:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-11 06:34:10 +0000"
     },
     "done": true
   },

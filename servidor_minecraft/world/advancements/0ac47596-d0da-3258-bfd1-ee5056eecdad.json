@@ -421,6 +421,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-03-11 06:38:14 +0000",
+      "minecraft:nether_wastes": "2025-03-11 06:38:07 +0000",
       "minecraft:soul_sand_valley": "2025-03-11 06:19:18 +0000"
     },
     "done": false
@@ -1078,6 +1080,7 @@
       "minecraft:skeleton": "2025-03-11 03:26:57 +0000",
       "minecraft:piglin": "2025-03-11 06:25:04 +0000",
       "minecraft:witch": "2025-03-11 05:52:13 +0000",
+      "minecraft:piglin_brute": "2025-03-11 06:35:27 +0000",
       "minecraft:spider": "2025-03-11 05:31:25 +0000",
       "minecraft:zombie": "2025-03-11 05:19:44 +0000",
       "minecraft:creeper": "2025-03-11 05:50:27 +0000",
@@ -1450,6 +1453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-11 06:38:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-11 03:23:07 +0000"
@@ -1772,6 +1781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-11 06:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-03-11 03:23:07 +0000"
@@ -1799,6 +1814,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-11 03:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-03-11 06:38:15 +0000"
     },
     "done": true
   },
