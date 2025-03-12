@@ -10,6 +10,7 @@
       "minecraft:savanna_plateau": "2025-03-11 03:35:23 +0000",
       "minecraft:beach": "2025-03-10 17:41:57 +0000",
       "minecraft:dark_forest": "2025-03-11 16:27:24 +0000",
+      "minecraft:stony_peaks": "2025-03-12 02:43:16 +0000",
       "minecraft:forest": "2025-03-10 16:54:46 +0000",
       "minecraft:taiga": "2025-03-11 16:26:20 +0000",
       "minecraft:sparse_jungle": "2025-03-11 15:38:18 +0000",
@@ -3381,9 +3382,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-03-12 02:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-03-12 02:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-03-12 02:37:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-12 02:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-12 02:48:52 +0000"
     },
     "done": true
   },

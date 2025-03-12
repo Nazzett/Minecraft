@@ -110,3 +110,12 @@
 [02:26:30] [Server thread/INFO]: uriadi joined the game
 [02:26:30] [Server thread/INFO]: uriadi[/127.62.22.144:55285] logged in with entity id 1586 at ([world]174.76541416637917, -58.0, -360.2188480803808)
 [02:27:29] [Server thread/INFO]: uriadi has reached the goal [Sky's the Limit]
+[02:47:32] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[02:47:32] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[02:49:29] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[02:49:29] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[02:52:10] [User Authenticator #4/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[02:52:11] [Server thread/INFO]: Novaaynon lost connection: You logged in from another location
+[02:52:11] [Server thread/INFO]: Novaaynon left the game
+[02:52:12] [Server thread/INFO]: Novaaynon joined the game
+[02:52:12] [Server thread/INFO]: Novaaynon[/127.108.16.44:36013] logged in with entity id 9644 at ([world]-1024.3852303416227, 94.0, -570.3000000119209)
