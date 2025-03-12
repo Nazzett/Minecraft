@@ -122,3 +122,37 @@
 [02:59:20] [Server thread/WARN]: Novaaynon moved too quickly! 13.382416899419582,-2.1379440651894868,3.291792218378305
 [03:04:13] [Server thread/INFO]: nachurri issued server command: /tp uriadi
 [03:04:13] [Server thread/INFO]: [nachurri: Teleported nachurri to uriadi]
+[03:06:13] [Server thread/INFO]: nachurri issued server command: /tp 767 -6 -1229
+[03:06:13] [Server thread/INFO]: [nachurri: Teleported nachurri to 767.500000, -6.000000, -1228.500000]
+[03:06:23] [Server thread/INFO]: nachurri issued server command: /tp uriadi
+[03:06:23] [Server thread/INFO]: [nachurri: Teleported nachurri to uriadi]
+[03:07:28] [Server thread/INFO]: nachurri issued server command: /tp 767 -4 -1299
+[03:07:28] [Server thread/INFO]: [nachurri: Teleported nachurri to 767.500000, -4.000000, -1298.500000]
+[03:07:40] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[03:07:40] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[03:13:30] [Server thread/INFO]: nachurri issued server command: /tp uriadi
+[03:13:30] [Server thread/INFO]: [nachurri: Teleported nachurri to uriadi]
+[03:14:06] [Server thread/INFO]: Novaaynon issued server command: /tp @s 105 97.5 -581
+[03:14:06] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 105.500000, 97.500000, -580.500000]
+[03:14:44] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
+[03:14:44] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
+[03:14:53] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[03:14:53] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[03:15:42] [Server thread/INFO]: uriadi issued server command: /tp novaaynon
+[03:15:42] [Server thread/INFO]: [uriadi: Teleported uriadi to Novaaynon]
+[03:19:22] [Server thread/WARN]: nachurri was kicked for floating too long!
+[03:19:22] [Server thread/INFO]: nachurri lost connection: Flying is not enabled on this server
+[03:19:22] [Server thread/INFO]: nachurri left the game
+[03:19:34] [User Authenticator #5/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
+[03:19:36] [Server thread/INFO]: nachurri joined the game
+[03:19:36] [Server thread/INFO]: nachurri[/127.174.62.101:60943] logged in with entity id 34585 at ([world]155.50617860478496, -53.21052123730044, -308.0159612773952)
+[03:19:54] [Server thread/INFO]: uriadi lost connection: Disconnected
+[03:19:54] [Server thread/INFO]: uriadi left the game
+[03:20:00] [User Authenticator #5/INFO]: UUID of player uriadi is 9b673c7f-0d74-3553-b49d-e0bb4859e85c
+[03:20:03] [Server thread/INFO]: uriadi joined the game
+[03:20:03] [Server thread/INFO]: uriadi[/127.62.22.144:39177] logged in with entity id 34628 at ([world]183.43943674457918, -57.485599573224405, -331.29620638968254)
+[03:20:37] [Server thread/INFO]: uriadi lost connection: Timed out
+[03:20:37] [Server thread/INFO]: uriadi left the game
+[03:20:44] [User Authenticator #5/INFO]: UUID of player uriadi is 9b673c7f-0d74-3553-b49d-e0bb4859e85c
+[03:20:46] [Server thread/INFO]: uriadi joined the game
+[03:20:46] [Server thread/INFO]: uriadi[/127.62.22.144:43193] logged in with entity id 34696 at ([world]183.43943674457918, -58.0, -331.29620638968254)
