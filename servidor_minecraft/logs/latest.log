@@ -162,3 +162,13 @@
 [03:33:27] [Server thread/INFO]: Novaaynon has made the advancement [Hidden in the Depths]
 [03:33:27] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
 [03:33:27] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[03:37:30] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[03:37:30] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[03:40:22] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[03:40:22] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[03:43:08] [Server thread/INFO]: Novaaynon issued server command: /xp add uriadi 9999
+[03:43:08] [Server thread/INFO]: [Novaaynon: Gave 9999 experience points to uriadi]
+[03:43:18] [Server thread/INFO]: Novaaynon issued server command: /xp add nachurri 99999
+[03:43:18] [Server thread/INFO]: [Novaaynon: Gave 99999 experience points to nachurri]
+[03:43:25] [Server thread/INFO]: Novaaynon issued server command: /xp add Novaaynon 99999
+[03:43:25] [Server thread/INFO]: [Novaaynon: Gave 99999 experience points to Novaaynon]
