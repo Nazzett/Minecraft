@@ -101,3 +101,12 @@
 [02:23:38] [Server thread/INFO]: uriadi[/127.62.22.144:37773] logged in with entity id 1287 at ([world]172.54513472368703, -58.0, -360.1657807410052)
 [02:24:19] [Server thread/INFO]: uriadi lost connection: Timed out
 [02:24:19] [Server thread/INFO]: uriadi left the game
+[02:24:29] [User Authenticator #2/INFO]: UUID of player uriadi is 9b673c7f-0d74-3553-b49d-e0bb4859e85c
+[02:24:31] [Server thread/INFO]: uriadi joined the game
+[02:24:31] [Server thread/INFO]: uriadi[/127.62.22.144:47543] logged in with entity id 1375 at ([world]175.5046137019223, -58.0, -360.3801623254696)
+[02:25:09] [Server thread/INFO]: uriadi lost connection: Timed out
+[02:25:09] [Server thread/INFO]: uriadi left the game
+[02:26:26] [User Authenticator #3/INFO]: UUID of player uriadi is 9b673c7f-0d74-3553-b49d-e0bb4859e85c
+[02:26:30] [Server thread/INFO]: uriadi joined the game
+[02:26:30] [Server thread/INFO]: uriadi[/127.62.22.144:55285] logged in with entity id 1586 at ([world]174.76541416637917, -58.0, -360.2188480803808)
+[02:27:29] [Server thread/INFO]: uriadi has reached the goal [Sky's the Limit]
