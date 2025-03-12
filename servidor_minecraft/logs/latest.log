@@ -193,3 +193,30 @@
 [04:08:26] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to alvarsilli]
 [04:08:41] [Server thread/INFO]: nachurri issued server command: /tp uriadi alvarsilli
 [04:08:41] [Server thread/INFO]: [nachurri: Teleported uriadi to alvarsilli]
+[04:09:11] [Server thread/INFO]: nachurri lost connection: Disconnected
+[04:09:11] [Server thread/INFO]: nachurri left the game
+[04:09:28] [User Authenticator #8/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
+[04:09:29] [Server thread/INFO]: nachurri joined the game
+[04:09:29] [Server thread/INFO]: nachurri[/127.174.62.101:59147] logged in with entity id 47603 at ([world]179.65478912051552, -58.0, -362.29658083958054)
+[04:09:31] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri Novaaynon
+[04:09:31] [Server thread/INFO]: [Novaaynon: Teleported nachurri to Novaaynon]
+[04:09:37] [Server thread/INFO]: uriadi issued server command: /tps nachurri
+[04:09:53] [Server thread/INFO]: nachurri issued server command: /tp 177 85 -517
+[04:09:53] [Server thread/INFO]: [nachurri: Teleported nachurri to 177.500000, 85.000000, -516.500000]
+[04:10:03] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[04:10:03] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[04:10:05] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
+[04:10:05] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
+[04:10:16] [Server thread/INFO]: Novaaynon issued server command: /tp alvarsilli Novaaynon
+[04:10:16] [Server thread/INFO]: [Novaaynon: Teleported alvarsilli to Novaaynon]
+[04:10:42] [Server thread/INFO]: Novaaynon issued server command: /tp uriadi Novaaynon
+[04:10:42] [Server thread/INFO]: [Novaaynon: Teleported uriadi to Novaaynon]
+[04:14:35] [Server thread/INFO]: alvarsilli has made the advancement [Diamonds!]
+[04:14:39] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[04:14:39] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[04:14:48] [Server thread/INFO]: alvarsilli has made the advancement [Cover Me with Diamonds]
+[04:15:40] [Server thread/INFO]: Novaaynon lost connection: Disconnected
+[04:15:40] [Server thread/INFO]: Novaaynon left the game
+[04:16:15] [User Authenticator #9/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[04:16:17] [Server thread/INFO]: Novaaynon joined the game
+[04:16:17] [Server thread/INFO]: Novaaynon[/127.206.116.119:50367] logged in with entity id 48909 at ([world]93.36158776147381, 103.0, -515.9497389262289)
