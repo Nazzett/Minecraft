@@ -177,3 +177,19 @@
 [03:47:29] [User Authenticator #6/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
 [03:47:31] [Server thread/INFO]: Novaaynon joined the game
 [03:47:31] [Server thread/INFO]: Novaaynon[/127.206.116.119:35295] logged in with entity id 42803 at ([world]179.3168341167048, -57.0, -357.4941699590303)
+[04:01:28] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[04:01:28] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[04:01:43] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[04:01:43] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[04:01:50] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[04:01:50] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[04:04:36] [Async Chat Thread - #0/INFO]: [Not Secure] <uriadi> t
+[04:04:48] [Server thread/INFO]: uriadi issued server command: /tp novaaynon
+[04:04:48] [Server thread/INFO]: [uriadi: Teleported uriadi to Novaaynon]
+[04:08:14] [User Authenticator #7/INFO]: UUID of player alvarsilli is 86c51b05-d277-3d4d-a09c-9fb74aa0b015
+[04:08:15] [Server thread/INFO]: alvarsilli joined the game
+[04:08:15] [Server thread/INFO]: alvarsilli[/127.84.185.154:56733] logged in with entity id 47267 at ([world]-8.5, 91.0, -7.5)
+[04:08:26] [Server thread/INFO]: Novaaynon issued server command: /tp alvarsilli
+[04:08:26] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to alvarsilli]
+[04:08:41] [Server thread/INFO]: nachurri issued server command: /tp uriadi alvarsilli
+[04:08:41] [Server thread/INFO]: [nachurri: Teleported uriadi to alvarsilli]
