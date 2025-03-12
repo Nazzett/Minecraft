@@ -172,3 +172,8 @@
 [03:43:18] [Server thread/INFO]: [Novaaynon: Gave 99999 experience points to nachurri]
 [03:43:25] [Server thread/INFO]: Novaaynon issued server command: /xp add Novaaynon 99999
 [03:43:25] [Server thread/INFO]: [Novaaynon: Gave 99999 experience points to Novaaynon]
+[03:47:19] [Server thread/INFO]: Novaaynon lost connection: Disconnected
+[03:47:19] [Server thread/INFO]: Novaaynon left the game
+[03:47:29] [User Authenticator #6/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[03:47:31] [Server thread/INFO]: Novaaynon joined the game
+[03:47:31] [Server thread/INFO]: Novaaynon[/127.206.116.119:35295] logged in with entity id 42803 at ([world]179.3168341167048, -57.0, -357.4941699590303)
