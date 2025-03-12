@@ -376,7 +376,8 @@
       "cooked_mutton": "2025-03-11 17:20:41 +0000",
       "cooked_beef": "2025-03-11 18:14:54 +0000",
       "baked_potato": "2025-03-11 17:51:00 +0000",
-      "melon_slice": "2025-03-11 16:45:50 +0000"
+      "melon_slice": "2025-03-11 16:45:50 +0000",
+      "carrot": "2025-03-12 02:39:47 +0000"
     },
     "done": false
   },
@@ -2259,6 +2260,24 @@
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2025-03-11 22:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-12 02:37:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-12 02:37:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-12 02:37:35 +0000"
     },
     "done": true
   },
