@@ -119,3 +119,6 @@
 [02:52:11] [Server thread/INFO]: Novaaynon left the game
 [02:52:12] [Server thread/INFO]: Novaaynon joined the game
 [02:52:12] [Server thread/INFO]: Novaaynon[/127.108.16.44:36013] logged in with entity id 9644 at ([world]-1024.3852303416227, 94.0, -570.3000000119209)
+[02:59:20] [Server thread/WARN]: Novaaynon moved too quickly! 13.382416899419582,-2.1379440651894868,3.291792218378305
+[03:04:13] [Server thread/INFO]: nachurri issued server command: /tp uriadi
+[03:04:13] [Server thread/INFO]: [nachurri: Teleported nachurri to uriadi]
