@@ -234,3 +234,13 @@
 [04:27:14] [Server thread/INFO]: alvarsilli was shot by uriadi
 [04:28:13] [Server thread/INFO]: nachurri issued server command: /tp alvarsilli nachurri
 [04:28:13] [Server thread/INFO]: [nachurri: Teleported alvarsilli to nachurri]
+[04:32:07] [Server thread/INFO]: alvarsilli lost connection: Timed out
+[04:32:07] [Server thread/INFO]: alvarsilli left the game
+[04:36:38] [Server thread/INFO]: uriadi was slain by Novaaynon
+[04:36:51] [Server thread/INFO]: uriadi issued server command: /tp novaaynon
+[04:36:51] [Server thread/INFO]: [uriadi: Teleported uriadi to Novaaynon]
+[04:38:07] [User Authenticator #10/INFO]: UUID of player alvarsilli is 86c51b05-d277-3d4d-a09c-9fb74aa0b015
+[04:38:09] [Server thread/INFO]: alvarsilli joined the game
+[04:38:09] [Server thread/INFO]: alvarsilli[/127.84.185.154:42895] logged in with entity id 52747 at ([world]105.25495522953105, 103.0, -509.3801052057862)
+[04:38:51] [Server thread/INFO]: uriadi lost connection: Disconnected
+[04:38:51] [Server thread/INFO]: uriadi left the game
