@@ -67,3 +67,8 @@
 [17:05:15] [Server thread/INFO]: uriadi[/127.62.22.144:55699] logged in with entity id 953 at ([world_the_end]235.8789814463636, 1.0625, -0.23009927834829536)
 [17:06:07] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
 [17:06:07] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[17:15:19] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[17:15:19] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[17:15:29] [Server thread/WARN]: nachurri moved wrongly!
+[17:15:34] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[17:15:34] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
