@@ -114,3 +114,17 @@
 [17:40:03] [Server thread/INFO]: uriadi[/127.62.22.144:33933] logged in with entity id 30409 at ([world]113.64001673611057, 105.0, -539.3000000119209)
 [17:42:15] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 -57.5 -363
 [17:42:15] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, -57.500000, -362.500000]
+[17:43:35] [Server thread/INFO]: nachurri issued server command: /tp uriadi
+[17:43:35] [Server thread/INFO]: [nachurri: Teleported nachurri to uriadi]
+[17:50:22] [User Authenticator #3/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[17:50:22] [Server thread/INFO]: Novaaynon lost connection: You logged in from another location
+[17:50:22] [Server thread/INFO]: Novaaynon left the game
+[17:50:23] [Server thread/INFO]: Novaaynon joined the game
+[17:50:23] [Server thread/INFO]: Novaaynon[/127.108.16.44:59185] logged in with entity id 36561 at ([world]112.60465386316307, 101.0, -541.8996509275462)
+[17:51:13] [User Authenticator #3/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[17:51:13] [Server thread/INFO]: Novaaynon lost connection: You logged in from another location
+[17:51:13] [Server thread/INFO]: Novaaynon left the game
+[17:51:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@a7bbd2d[id=e70d0417-d102-3c92-9a13-109ad4799c6c,name=Novaaynon,properties={}] lost connection: Timed out
+[17:52:37] [User Authenticator #4/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[17:52:38] [Server thread/INFO]: Novaaynon joined the game
+[17:52:38] [Server thread/INFO]: Novaaynon[/127.108.16.44:51441] logged in with entity id 37071 at ([world]114.19172131764527, 101.0, -541.937536295384)
