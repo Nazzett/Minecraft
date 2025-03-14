@@ -158,3 +158,9 @@ de-op uriadi<--[HERE]
 [05:00:24] [Server thread/INFO]: Made uriadi a server operator
 [05:00:28] [Server thread/INFO]: nachurri issued server command: /tp uriadi nachurri
 [05:00:28] [Server thread/INFO]: [nachurri: Teleported uriadi to nachurri]
+[05:04:53] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[05:04:53] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[05:07:50] [Async Chat Thread - #1/INFO]: [Not Secure] <uriadi> putito
+[05:09:47] [Async Chat Thread - #3/INFO]: [Not Secure] <nachurri> q te paso uri
+[05:11:44] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[05:11:44] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
