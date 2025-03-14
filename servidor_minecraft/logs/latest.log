@@ -149,3 +149,12 @@
 [18:02:58] [User Authenticator #6/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
 [18:03:01] [Server thread/INFO]: Novaaynon joined the game
 [18:03:01] [Server thread/INFO]: Novaaynon[/127.108.16.44:40607] logged in with entity id 39167 at ([world]177.85822222122724, -58.0, -358.13680078351354)
+[18:04:00] [Server thread/INFO]: uriadi has made the advancement [Hot Stuff]
+[18:04:02] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
+[18:04:02] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
+[18:04:19] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[18:04:19] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[18:07:27] [Server thread/INFO]: Novaaynon issued server command: /tp @s 770 -6.5 -1296
+[18:07:27] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 770.500000, -6.500000, -1295.500000]
+[18:08:04] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[18:08:04] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
