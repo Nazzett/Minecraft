@@ -62,3 +62,10 @@
 [02:51:31] [Server thread/INFO]: nachurri[/127.174.62.101:57945] logged in with entity id 82 at ([world]107.03199295940252, 103.0, -507.36726376668065)
 [02:51:33] [Server thread/INFO]: Novaaynon joined the game
 [02:51:33] [Server thread/INFO]: Novaaynon[/127.108.16.44:41129] logged in with entity id 83 at ([world]111.73306099834839, 103.0, -513.7069225306609)
+[03:04:49] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
+[03:04:49] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
+[03:06:04] [Async Chat Thread - #0/INFO]: [Not Secure] <Novaaynon> 0,4625 -62,4375
+[03:06:23] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
+[03:06:23] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
+[03:10:19] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
+[03:10:19] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
