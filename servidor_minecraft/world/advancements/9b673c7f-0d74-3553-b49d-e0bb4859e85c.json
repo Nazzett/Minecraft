@@ -1213,6 +1213,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2025-03-11 17:30:43 +0000",
+      "minecraft:nether_wastes": "2025-03-14 04:53:22 +0000",
       "minecraft:basalt_deltas": "2025-03-11 18:07:49 +0000",
       "minecraft:warped_forest": "2025-03-11 21:11:47 +0000"
     },
@@ -2409,6 +2410,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-03-14 04:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-14 04:58:43 +0000"
     },
     "done": true
   },

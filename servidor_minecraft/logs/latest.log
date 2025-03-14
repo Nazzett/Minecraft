@@ -152,3 +152,9 @@ de-op uriadi<--[HERE]
 [04:51:06] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to -2.500000, 73.500000, -929.500000]
 [04:51:15] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
 [04:51:15] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
+[04:53:49] [Server thread/INFO]: Novaaynon lost connection: Disconnected
+[04:53:49] [Server thread/INFO]: Novaaynon left the game
+[05:00:05] [Server thread/INFO]: uriadi issued server command: /tp
+[05:00:24] [Server thread/INFO]: Made uriadi a server operator
+[05:00:28] [Server thread/INFO]: nachurri issued server command: /tp uriadi nachurri
+[05:00:28] [Server thread/INFO]: [nachurri: Teleported uriadi to nachurri]
