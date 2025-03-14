@@ -83,3 +83,35 @@
 [08:19:05] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
 [08:19:05] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
 [08:20:04] [Server thread/WARN]: Novaaynon moved too quickly! -0.10629878199731024,26.5,-26.566008888377667
+[08:30:56] [Server thread/INFO]: Novaaynon lost connection: Disconnected
+[08:30:56] [Server thread/INFO]: Novaaynon left the game
+[08:31:14] [Server thread/INFO]: nachurri lost connection: Disconnected
+[08:31:14] [Server thread/INFO]: nachurri left the game
+[08:31:19] [Server thread/INFO]: Stopping the server
+[08:31:19] [Server thread/INFO]: Stopping server
+[08:31:19] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.1-SNAPSHOT
+[08:31:19] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[08:31:19] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[08:31:19] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[08:31:19] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[08:31:19] [Server thread/INFO]: Saving players
+[08:31:19] [Server thread/INFO]: Saving worlds
+[08:31:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:31:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[08:31:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[08:31:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[08:31:19] [Server thread/INFO]: [ChunkHolderManager] Saved 35 block chunks, 337 entity chunks, 0 poi chunks in world 'world' in 0.11s
+[08:31:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:31:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[08:31:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[08:31:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[08:31:19] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[08:31:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:31:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[08:31:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[08:31:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[08:31:19] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 30 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[08:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
