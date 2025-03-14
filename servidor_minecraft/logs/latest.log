@@ -164,3 +164,11 @@ de-op uriadi<--[HERE]
 [05:09:47] [Async Chat Thread - #3/INFO]: [Not Secure] <nachurri> q te paso uri
 [05:11:44] [Server thread/INFO]: uriadi issued server command: /tp nachurri
 [05:11:44] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[05:18:22] [User Authenticator #4/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[05:18:23] [Server thread/INFO]: Novaaynon joined the game
+[05:18:23] [Server thread/INFO]: Novaaynon[/127.108.16.44:46035] logged in with entity id 46478 at ([world]105.37435253630242, 103.0, -516.8874640477904)
+[05:21:16] [Server thread/INFO]: Novaaynon lost connection: Disconnected
+[05:21:16] [Server thread/INFO]: Novaaynon left the game
+[05:22:22] [User Authenticator #5/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[05:22:24] [Server thread/INFO]: Novaaynon joined the game
+[05:22:24] [Server thread/INFO]: Novaaynon[/127.108.16.44:38857] logged in with entity id 46932 at ([world]101.06130423903238, 103.0, -497.8832065814765)
