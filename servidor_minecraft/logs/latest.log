@@ -122,3 +122,20 @@
 [03:49:50] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 111.500000, 103.500000, -518.500000]
 [04:22:06] [Server thread/INFO]: Novaaynon lost connection: Disconnected
 [04:22:06] [Server thread/INFO]: Novaaynon left the game
+[04:22:33] [User Authenticator #2/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[04:22:34] [Server thread/INFO]: Novaaynon joined the game
+[04:22:34] [Server thread/INFO]: Novaaynon[/127.108.16.44:54453] logged in with entity id 31335 at ([world]107.803471977953, 106.0, -495.437199224628)
+[04:23:43] [User Authenticator #3/INFO]: UUID of player uriadi is 9b673c7f-0d74-3553-b49d-e0bb4859e85c
+[04:23:47] [Server thread/INFO]: uriadi joined the game
+[04:23:47] [Server thread/INFO]: uriadi[/127.62.22.144:36885] logged in with entity id 31859 at ([world]186.19082072293574, -58.0, -330.1718852180608)
+[04:24:21] [Server thread/INFO]: uriadi issued server command: /tp navoaynon
+[04:24:37] [Server thread/INFO]: uriadi issued server command: /tp novaaynon
+[04:24:37] [Server thread/INFO]: [uriadi: Teleported uriadi to Novaaynon]
+[04:24:46] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[04:24:46] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[04:29:33] [Server thread/INFO]: uriadi fell from a high place
+[04:29:47] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[04:29:47] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[04:31:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+de-op uriadi<--[HERE]
+[04:31:53] [Server thread/INFO]: Made uriadi no longer a server operator
