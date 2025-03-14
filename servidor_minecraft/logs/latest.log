@@ -185,3 +185,50 @@ de-op uriadi<--[HERE]
 [05:32:25] [Server thread/INFO]: nachurri[/127.174.62.101:45499] logged in with entity id 49307 at ([world]94.82463788431075, 103.0, -498.7188020429091)
 [05:33:07] [Server thread/INFO]: nachurri lost connection: Disconnected
 [05:33:07] [Server thread/INFO]: nachurri left the game
+[05:34:03] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
+[05:34:03] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
+[05:35:28] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
+[05:35:28] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
+[05:36:15] [Server thread/INFO]: uriadi has made the advancement [Best Friends Forever]
+[05:36:39] [User Authenticator #7/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
+[05:36:40] [Server thread/INFO]: nachurri joined the game
+[05:36:40] [Server thread/INFO]: nachurri[/127.174.62.101:36663] logged in with entity id 50850 at ([world]99.70990088047377, 103.0, -499.5560415311652)
+[05:37:22] [Server thread/INFO]: nachurri lost connection: Disconnected
+[05:37:22] [Server thread/INFO]: nachurri left the game
+[05:37:43] [Server thread/WARN]: Horse (vehicle of uriadi) moved wrongly! 2.544986300838966
+[05:38:42] [User Authenticator #8/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
+[05:38:44] [Server thread/INFO]: nachurri joined the game
+[05:38:44] [Server thread/INFO]: nachurri[/127.174.62.101:60929] logged in with entity id 51334 at ([world]100.5795109562876, 103.0, -499.5505252014764)
+[05:40:46] [Server thread/INFO]: Novaaynon lost connection: Disconnected
+[05:40:46] [Server thread/INFO]: Novaaynon left the game
+[05:41:09] [Server thread/INFO]: uriadi lost connection: Disconnected
+[05:41:09] [Server thread/INFO]: uriadi left the game
+[05:41:09] [Server thread/INFO]: nachurri lost connection: Disconnected
+[05:41:09] [Server thread/INFO]: nachurri left the game
+[05:41:09] [Server thread/INFO]: Stopping server
+[05:41:09] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.1-SNAPSHOT
+[05:41:09] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[05:41:09] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[05:41:09] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[05:41:09] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[05:41:09] [Server thread/INFO]: Saving players
+[05:41:09] [Server thread/INFO]: Saving worlds
+[05:41:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Saved 124 block chunks, 479 entity chunks, 2 poi chunks in world 'world' in 0.26s
+[05:41:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 56 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
+[05:41:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 30 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[05:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
