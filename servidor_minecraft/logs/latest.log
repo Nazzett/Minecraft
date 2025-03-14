@@ -147,3 +147,8 @@ de-op uriadi<--[HERE]
 [04:41:30] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
 [04:42:28] [Server thread/INFO]: Villager Villager['Leatherworker'/21890, uuid='15bf2027-f5f1-4e41-9ac3-29855ac729ee', l='ServerLevel[world]', x=97.84, y=102.00, z=-550.35, cpos=[6, -35], tl=144977, v=true] died, message: 'Leatherworker was slain by Novaaynon'
 [04:42:41] [Server thread/INFO]: Villager Villager['Leatherworker'/21892, uuid='4487b14d-3fff-486e-bd94-1fd7f76687fb', l='ServerLevel[world]', x=103.81, y=102.00, z=-538.80, cpos=[6, -34], tl=144368, v=true] died, message: 'Leatherworker was slain by Novaaynon'
+[04:50:27] [Server thread/INFO]: Novaaynon has made the advancement [What a Deal!]
+[04:51:06] [Server thread/INFO]: Novaaynon issued server command: /tp @s -3 73.5 -930
+[04:51:06] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to -2.500000, 73.500000, -929.500000]
+[04:51:15] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
+[04:51:15] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
