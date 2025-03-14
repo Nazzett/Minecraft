@@ -91,3 +91,13 @@
 [18:53:36] [Server thread/INFO]: [nachurri: Teleported uriadi to nachurri]
 [19:04:49] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
 [19:04:49] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[19:09:24] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 -57.5 -363
+[19:09:24] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, -57.500000, -362.500000]
+[19:09:41] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
+[19:09:41] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
+[19:13:25] [Server thread/WARN]: uriadi moved wrongly!
+[19:14:27] [Server thread/INFO]: Novaaynon has made the advancement [Hot Stuff]
+[19:15:14] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 -57.5 -363
+[19:15:14] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, -57.500000, -362.500000]
+[19:15:34] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
+[19:15:34] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
