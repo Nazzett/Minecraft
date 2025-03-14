@@ -72,3 +72,45 @@
 [17:15:29] [Server thread/WARN]: nachurri moved wrongly!
 [17:15:34] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
 [17:15:34] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[17:23:04] [Server thread/INFO]: uriadi issued server command: /tp novaaynon
+[17:23:04] [Server thread/INFO]: [uriadi: Teleported uriadi to Novaaynon]
+[17:24:00] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
+[17:24:00] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
+[17:24:13] [Server thread/INFO]: uriadi issued server command: /tp novaaynon
+[17:24:13] [Server thread/INFO]: [uriadi: Teleported uriadi to Novaaynon]
+[17:25:04] [Server thread/INFO]: Villager Villager['Villager'/6648, uuid='873a455c-e566-49c6-9af3-fc3c502cf04c', l='ServerLevel[world]', x=71.97, y=102.00, z=-513.62, cpos=[4, -33], tl=13134, v=true] died, message: 'Villager was slain by Novaaynon'
+[17:25:23] [Server thread/INFO]: nachurri issued server command: /tp uriadi
+[17:25:23] [Server thread/INFO]: [nachurri: Teleported nachurri to uriadi]
+[17:27:23] [Server thread/INFO]: nachurri issued server command: /tp 767 -6 -1300
+[17:27:23] [Server thread/INFO]: [nachurri: Teleported nachurri to 767.500000, -6.000000, -1299.500000]
+[17:27:44] [Server thread/INFO]: Novaaynon issued server command: /tp na
+[17:27:48] [Server thread/INFO]: nachurri fell out of the world
+[17:31:43] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
+[17:31:43] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
+[17:31:59] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri novaaynon
+[17:31:59] [Server thread/INFO]: [Novaaynon: Teleported nachurri to Novaaynon]
+[17:32:16] [Server thread/INFO]: nachurri issued server command: /tp 236 1 3
+[17:32:16] [Server thread/INFO]: [nachurri: Teleported nachurri to 236.500000, 1.000000, 3.500000]
+[17:32:20] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri novaaynon
+[17:32:20] [Server thread/INFO]: [Novaaynon: Teleported nachurri to Novaaynon]
+[17:32:28] [Server thread/INFO]: Novaaynon issued server command: /tp @s 770 -6.5 -1296
+[17:32:28] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 770.500000, -6.500000, -1295.500000]
+[17:32:52] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri novaaynon
+[17:32:52] [Server thread/INFO]: [Novaaynon: Teleported nachurri to Novaaynon]
+[17:35:18] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 -57.5 -363
+[17:35:18] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, -57.500000, -362.500000]
+[17:35:45] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[17:35:45] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[17:35:47] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[17:35:47] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[17:39:09] [Server thread/INFO]: nachurri issued server command: /tp uriadi
+[17:39:09] [Server thread/INFO]: [nachurri: Teleported nachurri to uriadi]
+[17:39:13] [Server thread/INFO]: uriadi issued server command: /tp novaaynon
+[17:39:13] [Server thread/INFO]: [uriadi: Teleported uriadi to Novaaynon]
+[17:39:48] [Server thread/INFO]: uriadi lost connection: Timed out
+[17:39:48] [Server thread/INFO]: uriadi left the game
+[17:40:00] [User Authenticator #2/INFO]: UUID of player uriadi is 9b673c7f-0d74-3553-b49d-e0bb4859e85c
+[17:40:03] [Server thread/INFO]: uriadi joined the game
+[17:40:03] [Server thread/INFO]: uriadi[/127.62.22.144:33933] logged in with entity id 30409 at ([world]113.64001673611057, 105.0, -539.3000000119209)
+[17:42:15] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 -57.5 -363
+[17:42:15] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, -57.500000, -362.500000]
