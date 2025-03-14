@@ -172,3 +172,16 @@ de-op uriadi<--[HERE]
 [05:22:22] [User Authenticator #5/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
 [05:22:24] [Server thread/INFO]: Novaaynon joined the game
 [05:22:24] [Server thread/INFO]: Novaaynon[/127.108.16.44:38857] logged in with entity id 46932 at ([world]101.06130423903238, 103.0, -497.8832065814765)
+[05:23:43] [Server thread/INFO]: Novaaynon lost connection: Disconnected
+[05:23:43] [Server thread/INFO]: Novaaynon left the game
+[05:29:05] [Server thread/INFO]: uriadi fell from a high place
+[05:29:29] [Server thread/INFO]: nachurri lost connection: Disconnected
+[05:29:29] [Server thread/INFO]: nachurri left the game
+[05:31:51] [User Authenticator #6/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[05:31:52] [Server thread/INFO]: Novaaynon joined the game
+[05:31:52] [Server thread/INFO]: Novaaynon[/127.108.16.44:56001] logged in with entity id 49025 at ([world]102.42336421275463, 103.0, -499.4490491661214)
+[05:32:23] [User Authenticator #6/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
+[05:32:25] [Server thread/INFO]: nachurri joined the game
+[05:32:25] [Server thread/INFO]: nachurri[/127.174.62.101:45499] logged in with entity id 49307 at ([world]94.82463788431075, 103.0, -498.7188020429091)
+[05:33:07] [Server thread/INFO]: nachurri lost connection: Disconnected
+[05:33:07] [Server thread/INFO]: nachurri left the game
