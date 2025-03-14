@@ -101,3 +101,9 @@
 [19:15:14] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, -57.500000, -362.500000]
 [19:15:34] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
 [19:15:34] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
+[19:19:53] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[19:19:53] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[19:24:02] [Server thread/INFO]: uriadi lost connection: Disconnected
+[19:24:02] [Server thread/INFO]: uriadi left the game
+[19:26:33] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
+[19:26:33] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
