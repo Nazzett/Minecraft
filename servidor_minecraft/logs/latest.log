@@ -1,234 +1,72 @@
-[02:50:48] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[02:50:48] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[02:50:48] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:50:49] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[02:50:49] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[07:51:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[07:51:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[07:51:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[07:51:35] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[07:51:35] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - Geyser-Spigot (2.6.1-SNAPSHOT), ViaVersion (5.2.1)
-[02:50:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:50:57] [ServerMain/INFO]: Loaded 1290 recipes
-[02:50:57] [ServerMain/INFO]: Loaded 1399 advancements
-[02:50:57] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:50:57] [Server thread/INFO]: Loading properties
-[02:50:57] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[02:50:58] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:50:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:50:58] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:50:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[02:51:00] [Server thread/INFO]: Default game type: SURVIVAL
-[02:51:00] [Server thread/INFO]: Generating keypair
-[02:51:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:51:00] [Server thread/INFO]: Using epoll channel type
-[02:51:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:51:00] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:51:00] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'Geyser-Spigot' for files 'plugins/Geyser-Spigot.jar' and 'plugins/Geyser-Spigot (1).jar' in 'plugins'
-[02:51:01] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
-[02:51:01] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
-[02:51:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[02:51:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[02:51:07] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.1-SNAPSHOT
-[02:51:09] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[02:51:09] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[02:51:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:51:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:51:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:51:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:51:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:51:09] [Server thread/INFO]: Preparing level "world"
-[02:51:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:51:12] [Server thread/INFO]: Time elapsed: 2364 ms
-[02:51:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:51:13] [Server thread/INFO]: Time elapsed: 498 ms
-[02:51:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:51:13] [Server thread/INFO]: Time elapsed: 323 ms
-[02:51:13] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
-[02:51:13] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[02:51:14] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.1-SNAPSHOT
-[02:51:15] [Server thread/INFO]: [spark] Starting background profiler...
-[02:51:15] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:51:15] [Server thread/INFO]: [Geyser-Spigot] 
-[02:51:15] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.1-b784 (git-master-cc94d5a)
-[02:51:15] [Server thread/INFO]: [Geyser-Spigot] 
-[02:51:15] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:51:27] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3536
-[02:51:27] [Server thread/INFO]: [Geyser-Spigot] Done (11.595s)! Run /geyser help for help!
-[02:51:27] [Server thread/INFO]: Done preparing level "world" (17.811s)
-[02:51:27] [Server thread/INFO]: Running delayed init tasks
-[02:51:27] [Server thread/INFO]: Done (41.370s)! For help, type "help"
-[02:51:27] [Server thread/INFO]: Timings Reset
-[02:51:27] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[02:51:29] [User Authenticator #0/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
-[02:51:31] [Server thread/INFO]: nachurri joined the game
-[02:51:31] [User Authenticator #0/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
-[02:51:31] [Server thread/INFO]: nachurri[/127.174.62.101:57945] logged in with entity id 82 at ([world]107.03199295940252, 103.0, -507.36726376668065)
-[02:51:33] [Server thread/INFO]: Novaaynon joined the game
-[02:51:33] [Server thread/INFO]: Novaaynon[/127.108.16.44:41129] logged in with entity id 83 at ([world]111.73306099834839, 103.0, -513.7069225306609)
-[03:04:49] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
-[03:04:49] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
-[03:06:04] [Async Chat Thread - #0/INFO]: [Not Secure] <Novaaynon> 0,4625 -62,4375
-[03:06:23] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
-[03:06:23] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
-[03:10:19] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
-[03:10:19] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
-[03:11:28] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
-[03:11:28] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
-[03:12:59] [Server thread/INFO]: Novaaynon issued server command: /tp @s -3 73.5 -930
-[03:12:59] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to -2.500000, 73.500000, -929.500000]
-[03:15:00] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
-[03:15:00] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
-[03:15:14] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
-[03:15:14] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
-[03:16:40] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
-[03:16:40] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
-[03:17:11] [Server thread/INFO]: Villager Villager['Nitwit'/7869, uuid='f7a16596-5c00-4952-be24-5bea1f4131bf', l='ServerLevel[world_nether]', x=-7.58, y=95.00, z=-137.10, cpos=[-1, -9], tl=48595, v=true] died, message: 'Nitwit was slain by Novaaynon'
-[03:17:54] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
-[03:17:54] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
-[03:19:07] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
-[03:19:07] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
-[03:19:38] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
-[03:19:38] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
-[03:20:24] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
-[03:20:24] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
-[03:21:09] [Server thread/INFO]: Novaaynon issued server command: /tp @s 112 114.5 -400
-[03:21:09] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 112.500000, 114.500000, -399.500000]
-[03:21:15] [Server thread/INFO]: Novaaynon issued server command: /tp @s 32 93.5 -976
-[03:21:15] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 32.500000, 93.500000, -975.500000]
-[03:21:23] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
-[03:21:23] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
-[03:22:36] [Server thread/INFO]: Novaaynon issued server command: /tp nachurri
-[03:22:36] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to nachurri]
-[03:22:53] [Server thread/INFO]: Novaaynon issued server command: /tp @s 14 114.5 -50
-[03:22:53] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 14.500000, 114.500000, -49.500000]
-[03:23:02] [Server thread/INFO]: Novaaynon issued server command: /tp @s 4 93.5 -122
-[03:23:02] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 4.500000, 93.500000, -121.500000]
-[03:34:07] [Server thread/INFO]: Novaaynon issued server command: /tp @s 111 103.5 -519
-[03:34:07] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 111.500000, 103.500000, -518.500000]
-[03:34:55] [Server thread/INFO]: Novaaynon issued server command: /tp @s -3 73.5 -930
-[03:34:55] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to -2.500000, 73.500000, -929.500000]
-[03:34:55] [Server thread/WARN]: Acacia Boat (vehicle of nachurri) moved wrongly! 0.3877932719393584
-[03:34:56] [Server thread/WARN]: Acacia Boat (vehicle of nachurri) moved wrongly! 0.37423434858453675
-[03:34:56] [Server thread/WARN]: Acacia Boat (vehicle of nachurri) moved wrongly! 0.31602757857865527
-[03:34:56] [Server thread/WARN]: Acacia Boat (vehicle of nachurri) moved wrongly! 0.39590378536615844
-[03:34:56] [Server thread/WARN]: Acacia Boat (vehicle of nachurri) moved wrongly! 0.47576718503091797
-[03:36:23] [Server thread/INFO]: Novaaynon issued server command: /tp @s -879 68.5 -1456
-[03:36:23] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to -878.500000, 68.500000, -1455.500000]
-[03:38:25] [Server thread/INFO]: Novaaynon issued server command: /tp @s 111 103.5 -519
-[03:38:25] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 111.500000, 103.500000, -518.500000]
-[03:46:42] [Server thread/INFO]: Novaaynon lost connection: Disconnected
-[03:46:42] [Server thread/INFO]: Novaaynon left the game
-[03:47:04] [User Authenticator #1/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
-[03:47:06] [Server thread/INFO]: Novaaynon joined the game
-[03:47:06] [Server thread/INFO]: Novaaynon[/127.108.16.44:55175] logged in with entity id 21876 at ([world]95.64908348827608, 103.1875, -521.2619392252619)
-[03:49:50] [Server thread/INFO]: Novaaynon issued server command: /tp @s 111 103.5 -519
-[03:49:50] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 111.500000, 103.500000, -518.500000]
-[04:22:06] [Server thread/INFO]: Novaaynon lost connection: Disconnected
-[04:22:06] [Server thread/INFO]: Novaaynon left the game
-[04:22:33] [User Authenticator #2/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
-[04:22:34] [Server thread/INFO]: Novaaynon joined the game
-[04:22:34] [Server thread/INFO]: Novaaynon[/127.108.16.44:54453] logged in with entity id 31335 at ([world]107.803471977953, 106.0, -495.437199224628)
-[04:23:43] [User Authenticator #3/INFO]: UUID of player uriadi is 9b673c7f-0d74-3553-b49d-e0bb4859e85c
-[04:23:47] [Server thread/INFO]: uriadi joined the game
-[04:23:47] [Server thread/INFO]: uriadi[/127.62.22.144:36885] logged in with entity id 31859 at ([world]186.19082072293574, -58.0, -330.1718852180608)
-[04:24:21] [Server thread/INFO]: uriadi issued server command: /tp navoaynon
-[04:24:37] [Server thread/INFO]: uriadi issued server command: /tp novaaynon
-[04:24:37] [Server thread/INFO]: [uriadi: Teleported uriadi to Novaaynon]
-[04:24:46] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
-[04:24:46] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
-[04:29:33] [Server thread/INFO]: uriadi fell from a high place
-[04:29:47] [Server thread/INFO]: uriadi issued server command: /tp nachurri
-[04:29:47] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
-[04:31:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
-de-op uriadi<--[HERE]
-[04:31:53] [Server thread/INFO]: Made uriadi no longer a server operator
-[04:39:38] [Server thread/INFO]: Villager Villager['Leatherworker'/21888, uuid='41a8e3ac-edd8-46a5-b69c-87d35d21937c', l='ServerLevel[world]', x=102.60, y=98.00, z=-577.12, cpos=[6, -37], tl=136592, v=true] died, message: 'Leatherworker was slain by Novaaynon'
-[04:39:39] [Server thread/INFO]: Villager Villager['Butcher'/22305, uuid='d7fc3a6f-a335-422d-b209-233bb100ccca', l='ServerLevel[world]', x=103.83, y=97.00, z=-580.81, cpos=[6, -37], tl=132764, v=true] died, message: 'Butcher was slain by Novaaynon'
-[04:40:15] [Server thread/INFO]: Novaaynon issued server command: /tp @s -3 73.5 -930
-[04:40:15] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to -2.500000, 73.500000, -929.500000]
-[04:41:30] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
-[04:41:30] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
-[04:42:28] [Server thread/INFO]: Villager Villager['Leatherworker'/21890, uuid='15bf2027-f5f1-4e41-9ac3-29855ac729ee', l='ServerLevel[world]', x=97.84, y=102.00, z=-550.35, cpos=[6, -35], tl=144977, v=true] died, message: 'Leatherworker was slain by Novaaynon'
-[04:42:41] [Server thread/INFO]: Villager Villager['Leatherworker'/21892, uuid='4487b14d-3fff-486e-bd94-1fd7f76687fb', l='ServerLevel[world]', x=103.81, y=102.00, z=-538.80, cpos=[6, -34], tl=144368, v=true] died, message: 'Leatherworker was slain by Novaaynon'
-[04:50:27] [Server thread/INFO]: Novaaynon has made the advancement [What a Deal!]
-[04:51:06] [Server thread/INFO]: Novaaynon issued server command: /tp @s -3 73.5 -930
-[04:51:06] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to -2.500000, 73.500000, -929.500000]
-[04:51:15] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
-[04:51:15] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
-[04:53:49] [Server thread/INFO]: Novaaynon lost connection: Disconnected
-[04:53:49] [Server thread/INFO]: Novaaynon left the game
-[05:00:05] [Server thread/INFO]: uriadi issued server command: /tp
-[05:00:24] [Server thread/INFO]: Made uriadi a server operator
-[05:00:28] [Server thread/INFO]: nachurri issued server command: /tp uriadi nachurri
-[05:00:28] [Server thread/INFO]: [nachurri: Teleported uriadi to nachurri]
-[05:04:53] [Server thread/INFO]: uriadi issued server command: /tp nachurri
-[05:04:53] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
-[05:07:50] [Async Chat Thread - #1/INFO]: [Not Secure] <uriadi> putito
-[05:09:47] [Async Chat Thread - #3/INFO]: [Not Secure] <nachurri> q te paso uri
-[05:11:44] [Server thread/INFO]: uriadi issued server command: /tp nachurri
-[05:11:44] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
-[05:18:22] [User Authenticator #4/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
-[05:18:23] [Server thread/INFO]: Novaaynon joined the game
-[05:18:23] [Server thread/INFO]: Novaaynon[/127.108.16.44:46035] logged in with entity id 46478 at ([world]105.37435253630242, 103.0, -516.8874640477904)
-[05:21:16] [Server thread/INFO]: Novaaynon lost connection: Disconnected
-[05:21:16] [Server thread/INFO]: Novaaynon left the game
-[05:22:22] [User Authenticator #5/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
-[05:22:24] [Server thread/INFO]: Novaaynon joined the game
-[05:22:24] [Server thread/INFO]: Novaaynon[/127.108.16.44:38857] logged in with entity id 46932 at ([world]101.06130423903238, 103.0, -497.8832065814765)
-[05:23:43] [Server thread/INFO]: Novaaynon lost connection: Disconnected
-[05:23:43] [Server thread/INFO]: Novaaynon left the game
-[05:29:05] [Server thread/INFO]: uriadi fell from a high place
-[05:29:29] [Server thread/INFO]: nachurri lost connection: Disconnected
-[05:29:29] [Server thread/INFO]: nachurri left the game
-[05:31:51] [User Authenticator #6/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
-[05:31:52] [Server thread/INFO]: Novaaynon joined the game
-[05:31:52] [Server thread/INFO]: Novaaynon[/127.108.16.44:56001] logged in with entity id 49025 at ([world]102.42336421275463, 103.0, -499.4490491661214)
-[05:32:23] [User Authenticator #6/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
-[05:32:25] [Server thread/INFO]: nachurri joined the game
-[05:32:25] [Server thread/INFO]: nachurri[/127.174.62.101:45499] logged in with entity id 49307 at ([world]94.82463788431075, 103.0, -498.7188020429091)
-[05:33:07] [Server thread/INFO]: nachurri lost connection: Disconnected
-[05:33:07] [Server thread/INFO]: nachurri left the game
-[05:34:03] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
-[05:34:03] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
-[05:35:28] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 85.5 -517
-[05:35:28] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, 85.500000, -516.500000]
-[05:36:15] [Server thread/INFO]: uriadi has made the advancement [Best Friends Forever]
-[05:36:39] [User Authenticator #7/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
-[05:36:40] [Server thread/INFO]: nachurri joined the game
-[05:36:40] [Server thread/INFO]: nachurri[/127.174.62.101:36663] logged in with entity id 50850 at ([world]99.70990088047377, 103.0, -499.5560415311652)
-[05:37:22] [Server thread/INFO]: nachurri lost connection: Disconnected
-[05:37:22] [Server thread/INFO]: nachurri left the game
-[05:37:43] [Server thread/WARN]: Horse (vehicle of uriadi) moved wrongly! 2.544986300838966
-[05:38:42] [User Authenticator #8/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
-[05:38:44] [Server thread/INFO]: nachurri joined the game
-[05:38:44] [Server thread/INFO]: nachurri[/127.174.62.101:60929] logged in with entity id 51334 at ([world]100.5795109562876, 103.0, -499.5505252014764)
-[05:40:46] [Server thread/INFO]: Novaaynon lost connection: Disconnected
-[05:40:46] [Server thread/INFO]: Novaaynon left the game
-[05:41:09] [Server thread/INFO]: uriadi lost connection: Disconnected
-[05:41:09] [Server thread/INFO]: uriadi left the game
-[05:41:09] [Server thread/INFO]: nachurri lost connection: Disconnected
-[05:41:09] [Server thread/INFO]: nachurri left the game
-[05:41:09] [Server thread/INFO]: Stopping server
-[05:41:09] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.1-SNAPSHOT
-[05:41:09] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[05:41:09] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[05:41:09] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
-[05:41:09] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[05:41:09] [Server thread/INFO]: Saving players
-[05:41:09] [Server thread/INFO]: Saving worlds
-[05:41:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Saved 124 block chunks, 479 entity chunks, 2 poi chunks in world 'world' in 0.26s
-[05:41:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 56 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
-[05:41:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[05:41:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 30 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[05:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:41:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:51:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:51:42] [ServerMain/INFO]: Loaded 1290 recipes
+[07:51:42] [ServerMain/INFO]: Loaded 1399 advancements
+[07:51:42] [Server thread/INFO]: Starting minecraft server version 1.21
+[07:51:42] [Server thread/INFO]: Loading properties
+[07:51:42] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[07:51:43] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[07:51:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:51:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:51:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[07:51:44] [Server thread/INFO]: Default game type: SURVIVAL
+[07:51:44] [Server thread/INFO]: Generating keypair
+[07:51:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:51:44] [Server thread/INFO]: Using epoll channel type
+[07:51:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:51:44] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[07:51:44] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'Geyser-Spigot' for files 'plugins/Geyser-Spigot.jar' and 'plugins/Geyser-Spigot (1).jar' in 'plugins'
+[07:51:46] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[07:51:46] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[07:51:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[07:51:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[07:51:50] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.1-SNAPSHOT
+[07:51:53] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[07:51:53] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[07:51:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:51:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:51:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:51:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:51:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:51:53] [Server thread/INFO]: Preparing level "world"
+[07:51:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:51:54] [Server thread/INFO]: Time elapsed: 1222 ms
+[07:51:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[07:51:55] [Server thread/INFO]: Time elapsed: 219 ms
+[07:51:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[07:51:55] [Server thread/INFO]: Time elapsed: 205 ms
+[07:51:55] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[07:51:55] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[07:51:55] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.1-SNAPSHOT
+[07:51:56] [Server thread/INFO]: [spark] Starting background profiler...
+[07:51:56] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[07:51:56] [Server thread/INFO]: [Geyser-Spigot] 
+[07:51:56] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.1-b784 (git-master-cc94d5a)
+[07:51:56] [Server thread/INFO]: [Geyser-Spigot] 
+[07:51:56] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[07:52:09] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3536
+[07:52:09] [Server thread/INFO]: [Geyser-Spigot] Done (12.094s)! Run /geyser help for help!
+[07:52:09] [Server thread/INFO]: Done preparing level "world" (16.285s)
+[07:52:09] [Server thread/INFO]: Running delayed init tasks
+[07:52:09] [Server thread/INFO]: Done (36.974s)! For help, type "help"
+[07:52:09] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[07:52:09] [Server thread/INFO]: Timings Reset
+[07:52:09] [User Authenticator #0/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
+[07:52:09] [Server thread/INFO]: nachurri (/127.174.62.101:52015) lost connection: Disconnected
+[07:52:18] [User Authenticator #0/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[07:52:20] [Server thread/INFO]: Novaaynon joined the game
+[07:52:20] [Server thread/INFO]: Novaaynon[/127.108.16.44:53233] logged in with entity id 60 at ([world]103.80007748465205, 103.0, -511.48168911726225)
+[07:52:21] [User Authenticator #0/INFO]: UUID of player nachurri is 7de598b2-22d2-3d55-86eb-2e0090de1509
+[07:52:23] [Server thread/INFO]: nachurri joined the game
+[07:52:23] [Server thread/INFO]: nachurri[/127.174.62.101:56607] logged in with entity id 180 at ([world]107.36834570447331, 103.0, -509.5850263134382)
+[07:52:42] [Server thread/INFO]: Novaaynon issued server command: /give Novaaynon minecraft:name_tag
+[07:52:42] [Server thread/INFO]: [Novaaynon: Gave 1 [Name Tag] to Novaaynon]
+[07:54:12] [Server thread/INFO]: Novaaynon issued server command: /tp @s 770 -6.5 -1296
+[07:54:12] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 770.500000, -6.500000, -1295.500000]
+[07:55:45] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[07:55:45] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
