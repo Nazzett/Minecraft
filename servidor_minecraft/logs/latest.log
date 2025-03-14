@@ -128,3 +128,24 @@
 [17:52:37] [User Authenticator #4/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
 [17:52:38] [Server thread/INFO]: Novaaynon joined the game
 [17:52:38] [Server thread/INFO]: Novaaynon[/127.108.16.44:51441] logged in with entity id 37071 at ([world]114.19172131764527, 101.0, -541.937536295384)
+[17:53:47] [Server thread/INFO]: Novaaynon lost connection: Disconnected
+[17:53:47] [Server thread/INFO]: Novaaynon left the game
+[17:53:54] [User Authenticator #5/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[17:53:55] [Server thread/INFO]: Novaaynon joined the game
+[17:53:55] [Server thread/INFO]: Novaaynon[/127.32.140.222:41307] logged in with entity id 37261 at ([world]110.8545252425874, 103.0, -509.6767541337787)
+[17:54:11] [User Authenticator #5/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[17:54:11] [Server thread/INFO]: Novaaynon lost connection: You logged in from another location
+[17:54:11] [Server thread/INFO]: Novaaynon left the game
+[17:54:15] [Server thread/INFO]: Novaaynon joined the game
+[17:54:15] [Server thread/INFO]: Novaaynon[/127.108.16.44:51315] logged in with entity id 37307 at ([world]107.84302016279388, 103.0, -510.6104932866787)
+[17:54:35] [Server thread/INFO]: Novaaynon issued server command: /tp @s 177 -57.5 -363
+[17:54:35] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 177.500000, -57.500000, -362.500000]
+[17:55:33] [Server thread/INFO]: Novaaynon lost connection: Timed out
+[17:55:33] [Server thread/INFO]: Novaaynon left the game
+[17:58:36] [Server thread/INFO]: nachurri issued server command: /tp uriadi
+[17:58:36] [Server thread/INFO]: [nachurri: Teleported nachurri to uriadi]
+[17:58:54] [Server thread/INFO]: uriadi issued server command: /tp nachurri
+[17:58:54] [Server thread/INFO]: [uriadi: Teleported uriadi to nachurri]
+[18:02:58] [User Authenticator #6/INFO]: UUID of player Novaaynon is e70d0417-d102-3c92-9a13-109ad4799c6c
+[18:03:01] [Server thread/INFO]: Novaaynon joined the game
+[18:03:01] [Server thread/INFO]: Novaaynon[/127.108.16.44:40607] logged in with entity id 39167 at ([world]177.85822222122724, -58.0, -358.13680078351354)
