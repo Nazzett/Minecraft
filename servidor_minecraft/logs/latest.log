@@ -76,3 +76,10 @@
 [08:11:10] [Server thread/INFO]: [Novaaynon: Teleported Novaaynon to 770.500000, -6.500000, -1295.500000]
 [08:11:16] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
 [08:11:16] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[08:15:21] [Server thread/INFO]: nachurri issued server command: /tp 767 -6 1300
+[08:15:21] [Server thread/INFO]: [nachurri: Teleported nachurri to 767.500000, -6.000000, 1300.500000]
+[08:16:09] [Server thread/INFO]: nachurri issued server command: /tp 767 -6 -1300
+[08:16:09] [Server thread/INFO]: [nachurri: Teleported nachurri to 767.500000, -6.000000, -1299.500000]
+[08:19:05] [Server thread/INFO]: nachurri issued server command: /tp novaaynon
+[08:19:05] [Server thread/INFO]: [nachurri: Teleported nachurri to Novaaynon]
+[08:20:04] [Server thread/WARN]: Novaaynon moved too quickly! -0.10629878199731024,26.5,-26.566008888377667
